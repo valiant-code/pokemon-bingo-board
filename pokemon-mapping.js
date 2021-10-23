@@ -1,10 +1,25 @@
-console.log("we got data:", pokemonData.length)
+var urlParams = new URLSearchParams(window.location.search);
+var seed = urlParams.get('seed')
+
+if (!seed) {
+    seed = Math.round(Math.random() * new Date().getTime())
+    urlParams.set('seed', seed);
+    const url = new URL(window.location.href);
+    url.searchParams.set('seed', seed);
+    window.history.replaceState(null, null, url);
+}
+
+var myRng = new Math.seedrandom(seed);
+
 
 function getRandomInt(min, max) {
     min = Math.ceil(min);
     max = Math.floor(max);
-    return Math.floor(Math.random() * (max - min + 1)) + min;
+    return Math.floor(myRng.quick() * (max - min + 1)) + min;
 }
+
+// TODO add button to re-roll the board
+// TODO maybe one day add data for other gens
 
 function randomizeBoard() {
     var pokemonOnTheBoard = [];
