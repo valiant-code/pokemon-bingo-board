@@ -3,3 +3,9 @@ border: 2px solid black;
 width: 125px;
 height: 125px;
 }
+
+.cell {
+display: flex;
+flex-direction: column;
+align-items: center;
+}

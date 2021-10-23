@@ -1,3 +1,4 @@
+//Taken from https://pokeapi.co/docs/v2
 var pokemonData = [
   {
     "name": "bulbasaur",
