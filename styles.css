@@ -2,6 +2,7 @@ td {
 border: 2px solid black;
 width: 125px;
 height: 125px;
+cursor: pointer;
 }
 
 .cell {
