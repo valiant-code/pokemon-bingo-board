@@ -10,11 +10,9 @@ function generateSeedString() {
 
 var urlParams = new URLSearchParams(window.location.search);
 var seed = urlParams.get('seed')
-console.log('seed from param: ', seed);
 
 if (!seed) {
     seed = generateSeedString();
-    console.log('seed put into param: ', seed);
 }
 
 var mySeededRng = new Math.seedrandom('' + seed);
@@ -26,8 +24,8 @@ function getRandomInt(min, max) {
     return Math.floor(mySeededRng() * (max - min + 1)) + min;
 }
 
-// TODO add button to re-roll the board
-// TODO maybe one day add data for other gens
+// TODO maybe remember selected cells through a refresh with session storage
+// TODO maybe add data for other gens
 
 function randomizeBoard() {
     mySeededRng = new Math.seedrandom('' + seed); // this is inconsistent if you pass a number instead of a string
@@ -63,3 +61,8 @@ function toggleCell(event) {
     cell.classList.toggle('marked');
 }
 
+function rerollBoard() {
+    seed = generateSeedString();
+    randomizeBoard();
+    document.querySelectorAll('.marked').forEach(ele => ele.classList.remove('marked'))
+}
