@@ -1,27 +1,39 @@
-var urlParams = new URLSearchParams(window.location.search);
-var seed = urlParams.get('seed')
-
-if (!seed) {
-    seed = Math.round(Math.random() * new Date().getTime())
+function generateSeedString() {
+    var urlParams = new URLSearchParams(window.location.search);
+    var seed = Math.round(Math.random() * new Date().getTime())
     urlParams.set('seed', seed);
     const url = new URL(window.location.href);
     url.searchParams.set('seed', seed);
     window.history.replaceState(null, null, url);
+    return seed;
 }
 
-var myRng = new Math.seedrandom(seed);
+var urlParams = new URLSearchParams(window.location.search);
+var seed = urlParams.get('seed')
+console.log('seed from param: ', seed);
+
+if (!seed) {
+    seed = generateSeedString();
+    console.log('seed put into param: ', seed);
+}
+
+var mySeededRng = new Math.seedrandom('' + seed);
 
 
 function getRandomInt(min, max) {
     min = Math.ceil(min);
     max = Math.floor(max);
-    return Math.floor(myRng.quick() * (max - min + 1)) + min;
+    return Math.floor(mySeededRng() * (max - min + 1)) + min;
 }
 
 // TODO add button to re-roll the board
 // TODO maybe one day add data for other gens
 
 function randomizeBoard() {
+    mySeededRng = new Math.seedrandom('' + seed); // this is inconsistent if you pass a number instead of a string
+    console.log('first Seed value: ', mySeededRng());
+
+
     var pokemonOnTheBoard = [];
 
     for(var row = 1; row <= 5; row++) {
