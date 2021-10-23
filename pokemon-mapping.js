@@ -22,7 +22,7 @@ function randomizeBoard() {
                     chosen = true;
                     var chosenPoke = pokemonData[pokeNum]
                     pokemonOnTheBoard.push(pokeNum);
-                    var cell = document.getElementById("r"+row+"c"+col);
+                    var cell = document.getElementById("r"+row+"c"+col+"-div");
                     cell.innerHTML = "<img src=\"" + chosenPoke.image + "\"/><span>" + chosenPoke.name + "</span>";
                 }
             }
@@ -31,4 +31,8 @@ function randomizeBoard() {
     console.log("done", pokemonOnTheBoard)
 }
 
-randomizeBoard();
+function toggleCell(event) {
+    var cell = document.getElementById(event);
+    cell.classList.toggle('marked');
+}
+
