@@ -24,8 +24,6 @@ function getRandomInt(min, max) {
     return Math.floor(mySeededRng() * (max - min + 1)) + min;
 }
 
-// TODO maybe remember selected cells through a refresh with session storage
-// TODO maybe add data for other gens
 
 function randomizeBoard() {
     mySeededRng = new Math.seedrandom('' + seed); // this is inconsistent if you pass a number instead of a string
@@ -53,12 +51,29 @@ function randomizeBoard() {
             }
         }
     }
+
+    //set cells as marked if they returned to the same seed in a single session
+    if (seed === sessionStorage.getItem('seed')) {
+        console.log('selectedCells', sessionStorage.getItem('selectedCells'));
+        var selectedArray = JSON.parse(sessionStorage.getItem('selectedCells') || '[]')
+        selectedArray.forEach(cellId => document.getElementById(cellId).classList.add('marked'))
+    } else {
+        sessionStorage.setItem('seed', seed);
+        sessionStorage.removeItem('selectedCells');
+    }
+
     console.log("done", pokemonOnTheBoard)
 }
 
 function toggleCell(event) {
     var cell = document.getElementById(event);
     cell.classList.toggle('marked');
+    var alreadySelected = JSON.parse(sessionStorage.getItem('selectedCells') || '[]');
+    if (cell.classList.contains('marked')) {
+        sessionStorage.setItem('selectedCells', JSON.stringify([cell.id, ...alreadySelected]))
+    } else {
+        sessionStorage.setItem('selectedCells', JSON.stringify(alreadySelected.filter(c => c !== cell.id)))
+    }
 }
 
 function rerollBoard() {
@@ -66,3 +81,4 @@ function rerollBoard() {
     randomizeBoard();
     document.querySelectorAll('.marked').forEach(ele => ele.classList.remove('marked'))
 }
+

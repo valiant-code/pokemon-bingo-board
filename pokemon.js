@@ -1,4 +1,6 @@
 //Taken from https://pokeapi.co/docs/v2
+// TODO maybe add data for other gens - right now only gen 3
+
 var pokemonData = [
   {
     "name": "Bulbasaur",
