@@ -17,7 +17,6 @@ if (!seed) {
 
 var mySeededRng = new Math.seedrandom('' + seed);
 
-
 function getRandomInt(min, max) {
     min = Math.ceil(min);
     max = Math.floor(max);
@@ -27,8 +26,6 @@ function getRandomInt(min, max) {
 
 function randomizeBoard() {
     mySeededRng = new Math.seedrandom('' + seed); // this is inconsistent if you pass a number instead of a string
-    console.log('first Seed value: ', mySeededRng());
-
 
     var pokemonOnTheBoard = [];
 
@@ -54,7 +51,6 @@ function randomizeBoard() {
 
     //set cells as marked if they returned to the same seed in a single session
     if (seed === sessionStorage.getItem('seed')) {
-        console.log('selectedCells', sessionStorage.getItem('selectedCells'));
         var selectedArray = JSON.parse(sessionStorage.getItem('selectedCells') || '[]')
         selectedArray.forEach(cellId => document.getElementById(cellId).classList.add('marked'))
     } else {
@@ -62,7 +58,6 @@ function randomizeBoard() {
         sessionStorage.removeItem('selectedCells');
     }
 
-    console.log("done", pokemonOnTheBoard)
 }
 
 function toggleCell(event) {
