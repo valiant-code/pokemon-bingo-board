@@ -9,6 +9,10 @@ height: 125px;
 cursor: pointer;
 }
 
+td:hover {
+background: aliceblue;
+}
+
 .cell {
 display: flex;
 flex-direction: column;
@@ -17,4 +21,8 @@ align-items: center;
 
 .marked {
 background: bisque;
+}
+
+.marked:hover {
+background: burlywood;
 }
