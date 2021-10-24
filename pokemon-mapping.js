@@ -43,7 +43,12 @@ function randomizeBoard() {
                     var chosenPoke = pokemonData[pokeNum]
                     pokemonOnTheBoard.push(pokeNum);
                     var cell = document.getElementById("r"+row+"c"+col+"-div");
-                    cell.innerHTML = "<img src=\"" + chosenPoke.image + "\"/><span>" + chosenPoke.name + "</span>";
+                    var image = chosenPoke['image']
+                    if (Math.random() < .007) {
+                        image = chosenPoke['image-shiny'];
+                        console.log('shiny', chosenPoke.name)
+                    }
+                    cell.innerHTML = "<img src=\"" + image + "\"/><span>" + chosenPoke.name + "</span>";
                 }
             }
         }
