@@ -58,6 +58,8 @@ function randomizeBoard() {
         sessionStorage.removeItem('selectedCells');
     }
 
+    document.getElementById('seed-label').innerText = 'Seed: ' + seed;
+
 }
 
 function toggleCell(event) {

@@ -44,3 +44,14 @@ flex-direction: column;
 .oak-sprite {
 height: 60px;
 }
+
+.seed-label {
+font-size: small;
+}
+
+@media print
+{
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
