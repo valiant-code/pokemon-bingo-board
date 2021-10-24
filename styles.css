@@ -26,3 +26,21 @@ background: bisque;
 .marked:hover {
 background: burlywood;
 }
+
+button {
+cursor: pointer;
+height: 40px;
+margin-top: 10px;
+font-weight: 700;
+font-size: large;
+}
+
+.game-container {
+width: fit-content;
+display: flex;
+flex-direction: column;
+}
+
+.oak-sprite {
+height: 60px;
+}
