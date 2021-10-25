@@ -15,45 +15,97 @@
 <h1>Pokemon Bingo Board</h1></body>
 
 <div class="game-container">
-<table>
-    <tr>
-        <td onclick="toggleCell('r1c1-td')" id="r1c1-td"><div id="r1c1-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r1c2-td')" id="r1c2-td"><div id="r1c2-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r1c3-td')" id="r1c3-td"><div id="r1c3-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r1c4-td')" id="r1c4-td"><div id="r1c4-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r1c5-td')" id="r1c5-td"><div id="r1c5-div" class="cell">Pikablu</div></td>
-    </tr>
-    <tr>
-        <td onclick="toggleCell('r2c1-td')" id="r2c1-td"><div id="r2c1-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r2c2-td')" id="r2c2-td"><div id="r2c2-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r2c3-td')" id="r2c3-td"><div id="r2c3-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r2c4-td')" id="r2c4-td"><div id="r2c4-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r2c5-td')" id="r2c5-td"><div id="r2c5-div" class="cell">Pikablu</div></td>
-    </tr>
-    <tr>
-        <td onclick="toggleCell('r3c1-td')" id="r3c1-td"><div id="r3c1-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r3c2-td')" id="r3c2-td"><div id="r3c2-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r3c3-td')" id="r3c3-td"><div id="r3c3-div" class="cell"><img src="sprites/Oak_sprite.webp" class="oak-sprite"/> <span>Free Space</span></div></td>
-        <td onclick="toggleCell('r3c4-td')" id="r3c4-td"><div id="r3c4-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r3c5-td')" id="r3c5-td"><div id="r3c5-div" class="cell">Pikablu</div></td>
-    </tr>
-    <tr>
-        <td onclick="toggleCell('r4c1-td')" id="r4c1-td"><div id="r4c1-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r4c2-td')" id="r4c2-td"><div id="r4c2-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r4c3-td')" id="r4c3-td"><div id="r4c3-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r4c4-td')" id="r4c4-td"><div id="r4c4-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r4c5-td')" id="r4c5-td"><div id="r4c5-div" class="cell">Pikablu</div></td>
-    </tr>
-    <tr>
-        <td onclick="toggleCell('r5c1-td')" id="r5c1-td"><div id="r5c1-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r5c2-td')" id="r5c2-td"><div id="r5c2-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r5c3-td')" id="r5c3-td"><div id="r5c3-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r5c4-td')" id="r5c4-td"><div id="r5c4-div" class="cell">Pikablu</div></td>
-        <td onclick="toggleCell('r5c5-td')" id="r5c5-td"><div id="r5c5-div" class="cell">Pikablu</div></td>
-    </tr>
-</table>
-<button class="no-print" onclick="rerollBoard()">Reroll</button>
-<p id="seed-label" class="seed-label">Seed: uninitialized</p>
+    <table>
+        <tr>
+            <td onclick="toggleCell('r1c1-td')" id="r1c1-td">
+                <div id="r1c1-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r1c2-td')" id="r1c2-td">
+
+                <div id="r1c2-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r1c3-td')" id="r1c3-td">
+                <div id="r1c3-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r1c4-td')" id="r1c4-td">
+                <div id="r1c4-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r1c5-td')" id="r1c5-td">
+                <div id="r1c5-div" class="cell">Pikablu</div>
+            </td>
+        </tr>
+        <tr>
+            <td onclick="toggleCell('r2c1-td')" id="r2c1-td">
+                <div id="r2c1-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r2c2-td')" id="r2c2-td">
+                <div id="r2c2-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r2c3-td')" id="r2c3-td">
+                <div id="r2c3-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r2c4-td')" id="r2c4-td">
+                <div id="r2c4-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r2c5-td')" id="r2c5-td">
+                <div id="r2c5-div" class="cell">Pikablu</div>
+            </td>
+        </tr>
+        <tr>
+            <td onclick="toggleCell('r3c1-td')" id="r3c1-td">
+                <div id="r3c1-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r3c2-td')" id="r3c2-td">
+                <div id="r3c2-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r3c3-td')" id="r3c3-td">
+                <div id="r3c3-div" class="cell"><img src="sprites/Oak_sprite.webp" class="oak-sprite"/>
+                    <span>Free Space</span></div>
+            </td>
+            <td onclick="toggleCell('r3c4-td')" id="r3c4-td">
+                <div id="r3c4-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r3c5-td')" id="r3c5-td">
+                <div id="r3c5-div" class="cell">Pikablu</div>
+            </td>
+        </tr>
+        <tr>
+            <td onclick="toggleCell('r4c1-td')" id="r4c1-td">
+                <div id="r4c1-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r4c2-td')" id="r4c2-td">
+                <div id="r4c2-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r4c3-td')" id="r4c3-td">
+                <div id="r4c3-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r4c4-td')" id="r4c4-td">
+                <div id="r4c4-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r4c5-td')" id="r4c5-td">
+                <div id="r4c5-div" class="cell">Pikablu</div>
+            </td>
+        </tr>
+        <tr>
+            <td onclick="toggleCell('r5c1-td')" id="r5c1-td">
+                <div id="r5c1-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r5c2-td')" id="r5c2-td">
+                <div id="r5c2-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r5c3-td')" id="r5c3-td">
+                <div id="r5c3-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r5c4-td')" id="r5c4-td">
+                <div id="r5c4-div" class="cell">Pikablu</div>
+            </td>
+            <td onclick="toggleCell('r5c5-td')" id="r5c5-td">
+                <div id="r5c5-div" class="cell">Pikablu</div>
+            </td>
+        </tr>
+    </table>
+    <button class="no-print" onclick="rerollBoard()">Reroll</button>
+    <p id="seed-label" class="seed-label">Seed: uninitialized</p>
 </div>
 <script>randomizeBoard()</script>
 </html>

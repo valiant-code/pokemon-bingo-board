@@ -10,6 +10,16 @@ function generateSeedString() {
 
 var urlParams = new URLSearchParams(window.location.search);
 var seed = urlParams.get('seed')
+var pokeballImg = 'sprites/poke-ball.png';
+var allCells = [
+'r1c1', 'r1c2', 'r1c3', 'r1c4', 'r1c5',
+'r2c1', 'r2c2', 'r2c3', 'r2c4', 'r2c5',
+'r3c1', 'r3c2', 'r3c3', 'r3c4', 'r3c5',
+'r4c1', 'r4c2', 'r4c3', 'r4c4', 'r4c5',
+'r5c1', 'r5c2', 'r5c3', 'r5c4', 'r5c5'
+];
+var diagonal1 = ['r1c1', 'r2c2', 'r3c3', 'r4c4', 'r5c5']
+var diagonal2 = ['r5c1', 'r4c2', 'r3c3', 'r2c4', 'r1c5']
 
 if (!seed) {
     seed = generateSeedString();
@@ -44,11 +54,15 @@ function randomizeBoard() {
                     pokemonOnTheBoard.push(pokeNum);
                     var cell = document.getElementById("r"+row+"c"+col+"-div");
                     var image = chosenPoke['image']
-                    if (Math.random() < .007) {
+                    if (mySeededRng() < .007) {
                         image = chosenPoke['image-shiny'];
                         console.log('shiny', chosenPoke.name)
                     }
-                    cell.innerHTML = "<img src=\"" + image + "\"/><span>" + chosenPoke.name + "</span>";
+                    cell.innerHTML =
+                    "<img class=\"pokeball\" src=\"sprites/poke-ball.png\"/>" +
+                    "<img class=\"masterball\" src=\"sprites/master-ball.png\"/>" +
+                    "<img class=\"pokemon-sprite\"" +
+                    " src=\"" + image + "\"/><span>" + chosenPoke.name + "</span>";
                 }
             }
         }
@@ -57,7 +71,7 @@ function randomizeBoard() {
     //set cells as marked if they returned to the same seed in a single session
     if (seed === sessionStorage.getItem('seed')) {
         var selectedArray = JSON.parse(sessionStorage.getItem('selectedCells') || '[]')
-        selectedArray.forEach(cellId => document.getElementById(cellId).classList.add('marked'))
+        selectedArray.forEach(cellId => toggleCell(cellId, true));
     } else {
         sessionStorage.setItem('seed', seed);
         sessionStorage.removeItem('selectedCells');
@@ -67,20 +81,68 @@ function randomizeBoard() {
 
 }
 
-function toggleCell(event) {
+
+
+function checkBingo() {
+    var markedCells = document.querySelectorAll('.marked');
+    console.log(markedCells);
+    if (markedCells.length < 5) return;
+    var marked = [];
+    var bingoWinners = [];
+
+    markedCells.forEach(c => marked.push(c.id.split('-')[0]));
+    //horizontal and vertical checks
+    for (var i = 1; i <= 5; i++) {
+            var horizontalCheck = marked.filter(id => id.indexOf('r' + i) >= 0);
+            if (horizontalCheck.length >= 5) {
+                bingoWinners = [...bingoWinners, ...horizontalCheck];
+            }
+            verticalCheck = marked.filter(id => id.indexOf('c' + i) >= 0);
+            if (verticalCheck.length >= 5) {
+                bingoWinners = [...bingoWinners, ...verticalCheck];
+            }
+    }
+
+    if (diagonal1.every(c => marked.includes(c))) {
+        bingoWinners = [...bingoWinners, ...diagonal1];
+    }
+
+
+    if (diagonal2.every(c => marked.includes(c))) {
+        bingoWinners = [...bingoWinners, ...diagonal2];
+    }
+
+    bingoWinners = [...new Set(bingoWinners)] || [];
+    var nonWinners = allCells.filter(c => !bingoWinners.includes(c)) || [];
+
+    document.querySelectorAll('.bingo').forEach(ele => {
+        if (nonWinners.indexOf(ele.id.split('-')[0]) >= 0) ele.classList.remove('bingo');
+        return;
+    });
+    bingoWinners.forEach(id => document.getElementById(id + '-td').classList.add('bingo'));
+    debugger;
+}
+
+
+function toggleCell(event, skipSessionStorage = false) {
     var cell = document.getElementById(event);
     cell.classList.toggle('marked');
     var alreadySelected = JSON.parse(sessionStorage.getItem('selectedCells') || '[]');
-    if (cell.classList.contains('marked')) {
-        sessionStorage.setItem('selectedCells', JSON.stringify([cell.id, ...alreadySelected]))
-    } else {
-        sessionStorage.setItem('selectedCells', JSON.stringify(alreadySelected.filter(c => c !== cell.id)))
+    if (!skipSessionStorage) {
+        if (cell.classList.contains('marked')) {
+            sessionStorage.setItem('selectedCells', JSON.stringify([cell.id, ...alreadySelected]))
+        } else {
+            sessionStorage.setItem('selectedCells', JSON.stringify(alreadySelected.filter(c => c !== cell.id)))
+        }
     }
+    checkBingo();
 }
+
 
 function rerollBoard() {
     seed = generateSeedString();
     randomizeBoard();
     document.querySelectorAll('.marked').forEach(ele => ele.classList.remove('marked'))
+    document.querySelectorAll('.bingo').forEach(ele => ele.classList.remove('bingo'))
 }
 
