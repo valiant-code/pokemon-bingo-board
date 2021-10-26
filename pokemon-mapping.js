@@ -7,6 +7,7 @@ function generateSeedString() {
     window.history.replaceState(null, null, url);
     return seed;
 }
+//test
 
 var urlParams = new URLSearchParams(window.location.search);
 var seed = urlParams.get('seed')
