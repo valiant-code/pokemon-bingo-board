@@ -103,22 +103,22 @@ button {
 }
 
 /*Mobile*/
-@media screen and (max-width: 768px) {
-  span {
-    font-size: 1.9rem;
-  }
+/*@media screen and (max-width: 768px) {*/
+  /*span {*/
+  /*  font-size: 1.9rem;*/
+  /*}*/
 
-  h1 {
-    font-size: 1.4rem;
-  }
+  /*h1 {*/
+  /*  font-size: 1.4rem;*/
+  /*}*/
 
-  .pokemon-sprite {
-    /*width: strech;*/
-    width: -webkit-fill-available;
-    width: -moz-fill-available;
-  }
+  /*.pokemon-sprite {*/
+  /*  !*width: strech;*!*/
+  /*  width: -webkit-fill-available;*/
+  /*  width: -moz-fill-available;*/
+  /*}*/
 
-  .game-container {
-    margin: 0 1rem;
-  }
-}
+  /*.game-container {*/
+  /*  margin: 0 1rem;*/
+  /*}*/
+/*}*/
