@@ -9,6 +9,4 @@ function toggleDarkMode() {
     bodyEl.classList.add("dark-mode");
     darkModeIsOn = true
   }
-
-  console.log(darkModeIsOn)
 }
