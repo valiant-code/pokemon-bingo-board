@@ -121,7 +121,6 @@ function checkBingo() {
         return;
     });
     bingoWinners.forEach(id => document.getElementById(id + '-td').classList.add('bingo'));
-    debugger;
 }
 
 
