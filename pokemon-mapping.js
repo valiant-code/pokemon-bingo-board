@@ -83,7 +83,6 @@ function randomizeBoard() {
 
 function checkBingo() {
     var markedCells = document.querySelectorAll('.marked');
-    console.log(markedCells);
     if (markedCells.length < 5) {
         document.querySelectorAll('.bingo').forEach(ele => ele.classList.remove('bingo'));
         return;
