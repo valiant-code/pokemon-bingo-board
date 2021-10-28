@@ -7,7 +7,7 @@ h1 {
 }
 
 table {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 td {
@@ -38,10 +38,11 @@ td:hover {
 button {
   cursor: pointer;
   font-weight: 700;
-  font-size: 2rem;
-  padding: 1rem 0;
+  font-size: 1.2rem;
+  padding: 0.5rem 0;
   border: 1px solid black;
 }
+
 .game-container {
   width: fit-content;
   display: flex;
@@ -88,9 +89,36 @@ button {
   }
 }
 
+/*Tablet and below*/
 @media screen and (max-width: 1024px) {
   body {
     font-size: 1.4rem;
     padding-top: 5rem;
+  }
+
+  button {
+    font-size: 2rem;
+    padding: 1rem 0;
+  }
+}
+
+/*Mobile*/
+@media screen and (max-width: 768px) {
+  span {
+    font-size: 1.9rem;
+  }
+
+  h1 {
+    font-size: 1.4rem;
+  }
+
+  .pokemon-sprite {
+    /*width: strech;*/
+    width: -webkit-fill-available;
+    width: -moz-fill-available;
+  }
+
+  .game-container {
+    margin: 0 1rem;
   }
 }
