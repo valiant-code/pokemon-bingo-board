@@ -117,8 +117,11 @@ button {
     max-width: 150px;
   }
 
-
   .oak-sprite {
     height: 90px;
+  }
+
+  .pokeball, .masterball {
+    height: 60px;
   }
 }
