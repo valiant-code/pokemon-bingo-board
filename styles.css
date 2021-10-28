@@ -2,6 +2,20 @@ body {
   font-family: Verdana, Helvetica, Arial, sans-serif;
 }
 
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  max-width: 75%;
+  margin: 0 auto;
+}
+header button {
+  padding: 1rem;
+}
+header button:active {
+  transform: scale(.98);
+}
+
 h1 {
   text-align: center;
 }
@@ -90,6 +104,15 @@ button {
   }
 }
 
+@media screen and (max-width: 953px) {
+  header {
+    flex-direction: column;
+  }
+  header button {
+    margin-bottom: 1.5rem;
+  }
+}
+
 @media screen and (max-width: 1024px) {
   td {
     width: 162px;
@@ -121,7 +144,8 @@ button {
     height: 90px;
   }
 
-  .pokeball, .masterball {
+  .pokeball,
+  .masterball {
     height: 60px;
   }
 }
