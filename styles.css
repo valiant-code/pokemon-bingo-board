@@ -6,6 +6,10 @@ h1 {
 text-align: center;
 }
 
+table {
+margin-bottom: 20px;
+}
+
 td {
 border: 2px solid black;
 width: 125px;
@@ -33,10 +37,9 @@ background: burlywood;
 
 button {
 cursor: pointer;
-height: 40px;
-margin-top: 10px;
 font-weight: 700;
-font-size: large;
+font-size: 2rem;
+padding: 1rem 0;
 }
 .game-container {
 width: fit-content;
@@ -82,5 +85,12 @@ display: none;
 {
     .no-print, .no-print * {
         display: none !important;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    body {
+        font-size: 1.4rem;
+        padding-top: 5rem;
     }
 }
