@@ -104,15 +104,6 @@ button {
   }
 }
 
-@media screen and (max-width: 953px) {
-  header {
-    flex-direction: column;
-  }
-  header button {
-    margin-bottom: 1.5rem;
-  }
-}
-
 @media screen and (max-width: 1024px) {
   td {
     width: 162px;
