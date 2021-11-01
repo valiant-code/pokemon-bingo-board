@@ -24,6 +24,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/1.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/1.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/1.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/1.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/1.png"
     }
   }, {
     id: 2,
@@ -47,6 +52,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/2.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/2.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/2.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/2.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/2.png"
     }
   }, {
     id: 3,
@@ -70,6 +80,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/3.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/3.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/3.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/3.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/3.png"
     }
   }, {
     id: 4,
@@ -93,6 +108,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/4.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/4.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/4.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/4.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/4.png"
     }
   }, {
     id: 5,
@@ -116,6 +136,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/5.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/5.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/5.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/5.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/5.png"
     }
   }, {
     id: 6,
@@ -139,6 +164,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/6.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/6.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/6.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/6.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/6.png"
     }
   }, {
     id: 7,
@@ -162,6 +192,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/7.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/7.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/7.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/7.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/7.png"
     }
   }, {
     id: 8,
@@ -185,6 +220,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/8.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/8.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/8.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/8.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/8.png"
     }
   }, {
     id: 9,
@@ -208,6 +248,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/9.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/9.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/9.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/9.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/9.png"
     }
   }, {
     id: 10,
@@ -231,6 +276,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/10.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/10.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/10.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/10.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/10.png"
     }
   }, {
     id: 11,
@@ -254,6 +304,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/11.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/11.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/11.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/11.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/11.png"
     }
   }, {
     id: 12,
@@ -277,6 +332,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/12.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/12.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/12.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/12.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/12.png"
     }
   }, {
     id: 13,
@@ -300,6 +360,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/13.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/13.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/13.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/13.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/13.png"
     }
   }, {
     id: 14,
@@ -323,6 +388,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/14.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/14.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/14.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/14.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/14.png"
     }
   }, {
     id: 15,
@@ -346,6 +416,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/15.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/15.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/15.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/15.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/15.png"
     }
   }, {
     id: 16,
@@ -369,6 +444,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/16.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/16.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/16.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/16.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/16.png"
     }
   }, {
     id: 17,
@@ -392,6 +472,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/17.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/17.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/17.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/17.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/17.png"
     }
   }, {
     id: 18,
@@ -415,6 +500,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/18.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/18.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/18.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/18.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/18.png"
     }
   }, {
     id: 19,
@@ -438,6 +528,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/19.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/19.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/19.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/19.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/19.png"
     }
   }, {
     id: 20,
@@ -461,6 +556,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/20.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/20.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/20.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/20.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/20.png"
     }
   }, {
     id: 21,
@@ -484,6 +584,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/21.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/21.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/21.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/21.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/21.png"
     }
   }, {
     id: 22,
@@ -507,6 +612,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/22.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/22.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/22.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/22.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/22.png"
     }
   }, {
     id: 23,
@@ -530,6 +640,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/23.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/23.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/23.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/23.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/23.png"
     }
   }, {
     id: 24,
@@ -553,6 +668,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/24.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/24.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/24.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/24.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/24.png"
     }
   }, {
     id: 25,
@@ -576,6 +696,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/25.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/25.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/25.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/25.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/25.png"
     }
   }, {
     id: 26,
@@ -599,6 +724,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/26.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/26.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/26.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/26.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/26.png"
     }
   }, {
     id: 27,
@@ -622,6 +752,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/27.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/27.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/27.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/27.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/27.png"
     }
   }, {
     id: 28,
@@ -645,6 +780,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/28.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/28.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/28.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/28.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/28.png"
     }
   }, {
     id: 29,
@@ -668,6 +808,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/29.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/29.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/29.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/29.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/29.png"
     }
   }, {
     id: 30,
@@ -691,6 +836,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/30.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/30.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/30.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/30.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/30.png"
     }
   }, {
     id: 31,
@@ -714,6 +864,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/31.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/31.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/31.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/31.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/31.png"
     }
   }, {
     id: 32,
@@ -737,6 +892,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/32.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/32.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/32.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/32.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/32.png"
     }
   }, {
     id: 33,
@@ -760,6 +920,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/33.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/33.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/33.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/33.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/33.png"
     }
   }, {
     id: 34,
@@ -783,6 +948,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/34.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/34.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/34.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/34.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/34.png"
     }
   }, {
     id: 35,
@@ -806,6 +976,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/35.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/35.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/35.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/35.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/35.png"
     }
   }, {
     id: 36,
@@ -829,6 +1004,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/36.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/36.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/36.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/36.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/36.png"
     }
   }, {
     id: 37,
@@ -852,6 +1032,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/37.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/37.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/37.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/37.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/37.png"
     }
   }, {
     id: 38,
@@ -875,6 +1060,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/38.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/38.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/38.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/38.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/38.png"
     }
   }, {
     id: 39,
@@ -898,6 +1088,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/39.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/39.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/39.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/39.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/39.png"
     }
   }, {
     id: 40,
@@ -921,6 +1116,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/40.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/40.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/40.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/40.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/40.png"
     }
   }, {
     id: 41,
@@ -944,6 +1144,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/41.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/41.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/41.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/41.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/41.png"
     }
   }, {
     id: 42,
@@ -967,6 +1172,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/42.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/42.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/42.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/42.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/42.png"
     }
   }, {
     id: 43,
@@ -990,6 +1200,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/43.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/43.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/43.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/43.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/43.png"
     }
   }, {
     id: 44,
@@ -1013,6 +1228,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/44.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/44.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/44.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/44.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/44.png"
     }
   }, {
     id: 45,
@@ -1036,6 +1256,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/45.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/45.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/45.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/45.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/45.png"
     }
   }, {
     id: 46,
@@ -1059,6 +1284,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/46.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/46.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/46.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/46.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/46.png"
     }
   }, {
     id: 47,
@@ -1082,6 +1312,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/47.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/47.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/47.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/47.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/47.png"
     }
   }, {
     id: 48,
@@ -1105,6 +1340,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/48.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/48.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/48.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/48.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/48.png"
     }
   }, {
     id: 49,
@@ -1128,6 +1368,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/49.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/49.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/49.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/49.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/49.png"
     }
   }, {
     id: 50,
@@ -1151,6 +1396,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/50.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/50.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/50.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/50.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/50.png"
     }
   }, {
     id: 51,
@@ -1174,6 +1424,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/51.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/51.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/51.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/51.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/51.png"
     }
   }, {
     id: 52,
@@ -1197,6 +1452,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/52.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/52.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/52.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/52.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/52.png"
     }
   }, {
     id: 53,
@@ -1220,6 +1480,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/53.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/53.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/53.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/53.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/53.png"
     }
   }, {
     id: 54,
@@ -1243,6 +1508,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/54.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/54.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/54.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/54.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/54.png"
     }
   }, {
     id: 55,
@@ -1266,6 +1536,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/55.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/55.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/55.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/55.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/55.png"
     }
   }, {
     id: 56,
@@ -1289,6 +1564,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/56.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/56.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/56.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/56.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/56.png"
     }
   }, {
     id: 57,
@@ -1312,6 +1592,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/57.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/57.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/57.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/57.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/57.png"
     }
   }, {
     id: 58,
@@ -1335,6 +1620,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/58.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/58.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/58.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/58.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/58.png"
     }
   }, {
     id: 59,
@@ -1358,6 +1648,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/59.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/59.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/59.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/59.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/59.png"
     }
   }, {
     id: 60,
@@ -1381,6 +1676,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/60.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/60.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/60.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/60.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/60.png"
     }
   }, {
     id: 61,
@@ -1404,6 +1704,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/61.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/61.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/61.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/61.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/61.png"
     }
   }, {
     id: 62,
@@ -1427,6 +1732,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/62.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/62.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/62.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/62.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/62.png"
     }
   }, {
     id: 63,
@@ -1450,6 +1760,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/63.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/63.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/63.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/63.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/63.png"
     }
   }, {
     id: 64,
@@ -1473,6 +1788,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/64.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/64.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/64.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/64.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/64.png"
     }
   }, {
     id: 65,
@@ -1496,6 +1816,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/65.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/65.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/65.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/65.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/65.png"
     }
   }, {
     id: 66,
@@ -1519,6 +1844,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/66.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/66.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/66.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/66.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/66.png"
     }
   }, {
     id: 67,
@@ -1542,6 +1872,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/67.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/67.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/67.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/67.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/67.png"
     }
   }, {
     id: 68,
@@ -1565,6 +1900,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/68.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/68.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/68.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/68.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/68.png"
     }
   }, {
     id: 69,
@@ -1588,6 +1928,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/69.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/69.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/69.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/69.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/69.png"
     }
   }, {
     id: 70,
@@ -1611,6 +1956,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/70.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/70.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/70.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/70.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/70.png"
     }
   }, {
     id: 71,
@@ -1634,6 +1984,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/71.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/71.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/71.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/71.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/71.png"
     }
   }, {
     id: 72,
@@ -1657,6 +2012,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/72.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/72.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/72.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/72.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/72.png"
     }
   }, {
     id: 73,
@@ -1680,6 +2040,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/73.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/73.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/73.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/73.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/73.png"
     }
   }, {
     id: 74,
@@ -1703,6 +2068,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/74.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/74.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/74.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/74.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/74.png"
     }
   }, {
     id: 75,
@@ -1726,6 +2096,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/75.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/75.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/75.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/75.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/75.png"
     }
   }, {
     id: 76,
@@ -1749,6 +2124,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/76.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/76.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/76.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/76.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/76.png"
     }
   }, {
     id: 77,
@@ -1772,6 +2152,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/77.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/77.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/77.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/77.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/77.png"
     }
   }, {
     id: 78,
@@ -1795,6 +2180,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/78.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/78.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/78.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/78.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/78.png"
     }
   }, {
     id: 79,
@@ -1818,6 +2208,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/79.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/79.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/79.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/79.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/79.png"
     }
   }, {
     id: 80,
@@ -1841,6 +2236,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/80.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/80.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/80.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/80.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/80.png"
     }
   }, {
     id: 81,
@@ -1864,6 +2264,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/81.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/81.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/81.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/81.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/81.png"
     }
   }, {
     id: 82,
@@ -1887,6 +2292,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/82.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/82.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/82.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/82.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/82.png"
     }
   }, {
     id: 83,
@@ -1910,6 +2320,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/83.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/83.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/83.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/83.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/83.png"
     }
   }, {
     id: 84,
@@ -1933,6 +2348,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/84.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/84.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/84.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/84.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/84.png"
     }
   }, {
     id: 85,
@@ -1956,6 +2376,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/85.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/85.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/85.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/85.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/85.png"
     }
   }, {
     id: 86,
@@ -1979,6 +2404,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/86.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/86.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/86.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/86.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/86.png"
     }
   }, {
     id: 87,
@@ -2002,6 +2432,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/87.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/87.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/87.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/87.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/87.png"
     }
   }, {
     id: 88,
@@ -2025,6 +2460,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/88.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/88.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/88.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/88.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/88.png"
     }
   }, {
     id: 89,
@@ -2048,6 +2488,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/89.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/89.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/89.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/89.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/89.png"
     }
   }, {
     id: 90,
@@ -2071,6 +2516,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/90.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/90.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/90.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/90.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/90.png"
     }
   }, {
     id: 91,
@@ -2094,6 +2544,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/91.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/91.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/91.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/91.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/91.png"
     }
   }, {
     id: 92,
@@ -2117,6 +2572,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/92.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/92.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/92.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/92.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/92.png"
     }
   }, {
     id: 93,
@@ -2140,6 +2600,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/93.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/93.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/93.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/93.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/93.png"
     }
   }, {
     id: 94,
@@ -2163,6 +2628,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/94.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/94.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/94.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/94.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/94.png"
     }
   }, {
     id: 95,
@@ -2186,6 +2656,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/95.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/95.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/95.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/95.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/95.png"
     }
   }, {
     id: 96,
@@ -2209,6 +2684,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/96.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/96.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/96.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/96.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/96.png"
     }
   }, {
     id: 97,
@@ -2232,6 +2712,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/97.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/97.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/97.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/97.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/97.png"
     }
   }, {
     id: 98,
@@ -2255,6 +2740,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/98.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/98.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/98.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/98.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/98.png"
     }
   }, {
     id: 99,
@@ -2278,6 +2768,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/99.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/99.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/99.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/99.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/99.png"
     }
   }, {
     id: 100,
@@ -2301,6 +2796,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/100.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/100.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/100.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/100.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/100.png"
     }
   }, {
     id: 101,
@@ -2324,6 +2824,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/101.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/101.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/101.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/101.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/101.png"
     }
   }, {
     id: 102,
@@ -2347,6 +2852,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/102.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/102.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/102.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/102.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/102.png"
     }
   }, {
     id: 103,
@@ -2370,6 +2880,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/103.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/103.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/103.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/103.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/103.png"
     }
   }, {
     id: 104,
@@ -2393,6 +2908,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/104.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/104.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/104.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/104.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/104.png"
     }
   }, {
     id: 105,
@@ -2416,6 +2936,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/105.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/105.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/105.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/105.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/105.png"
     }
   }, {
     id: 106,
@@ -2439,6 +2964,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/106.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/106.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/106.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/106.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/106.png"
     }
   }, {
     id: 107,
@@ -2462,6 +2992,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/107.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/107.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/107.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/107.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/107.png"
     }
   }, {
     id: 108,
@@ -2485,6 +3020,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/108.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/108.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/108.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/108.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/108.png"
     }
   }, {
     id: 109,
@@ -2508,6 +3048,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/109.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/109.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/109.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/109.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/109.png"
     }
   }, {
     id: 110,
@@ -2531,6 +3076,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/110.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/110.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/110.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/110.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/110.png"
     }
   }, {
     id: 111,
@@ -2554,6 +3104,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/111.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/111.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/111.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/111.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/111.png"
     }
   }, {
     id: 112,
@@ -2577,6 +3132,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/112.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/112.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/112.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/112.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/112.png"
     }
   }, {
     id: 113,
@@ -2600,6 +3160,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/113.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/113.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/113.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/113.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/113.png"
     }
   }, {
     id: 114,
@@ -2623,6 +3188,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/114.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/114.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/114.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/114.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/114.png"
     }
   }, {
     id: 115,
@@ -2646,6 +3216,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/115.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/115.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/115.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/115.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/115.png"
     }
   }, {
     id: 116,
@@ -2669,6 +3244,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/116.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/116.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/116.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/116.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/116.png"
     }
   }, {
     id: 117,
@@ -2692,6 +3272,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/117.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/117.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/117.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/117.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/117.png"
     }
   }, {
     id: 118,
@@ -2715,6 +3300,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/118.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/118.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/118.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/118.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/118.png"
     }
   }, {
     id: 119,
@@ -2738,6 +3328,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/119.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/119.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/119.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/119.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/119.png"
     }
   }, {
     id: 120,
@@ -2761,6 +3356,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/120.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/120.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/120.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/120.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/120.png"
     }
   }, {
     id: 121,
@@ -2784,10 +3384,15 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/121.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/121.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/121.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/121.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/121.png"
     }
   }, {
     id: 122,
-    name: "Mr-mime",
+    name: "Mr. Mime",
     gen3: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/firered-leafgreen/122.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/firered-leafgreen/shiny/122.png"
@@ -2807,6 +3412,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/122.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/122.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/122.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/122.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/122.png"
     }
   }, {
     id: 123,
@@ -2830,6 +3440,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/123.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/123.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/123.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/123.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/123.png"
     }
   }, {
     id: 124,
@@ -2853,6 +3468,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/124.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/124.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/124.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/124.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/124.png"
     }
   }, {
     id: 125,
@@ -2876,6 +3496,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/125.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/125.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/125.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/125.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/125.png"
     }
   }, {
     id: 126,
@@ -2899,6 +3524,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/126.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/126.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/126.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/126.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/126.png"
     }
   }, {
     id: 127,
@@ -2922,6 +3552,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/127.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/127.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/127.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/127.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/127.png"
     }
   }, {
     id: 128,
@@ -2945,6 +3580,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/128.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/128.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/128.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/128.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/128.png"
     }
   }, {
     id: 129,
@@ -2968,6 +3608,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/129.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/129.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/129.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/129.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/129.png"
     }
   }, {
     id: 130,
@@ -2991,6 +3636,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/130.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/130.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/130.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/130.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/130.png"
     }
   }, {
     id: 131,
@@ -3014,6 +3664,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/131.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/131.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/131.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/131.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/131.png"
     }
   }, {
     id: 132,
@@ -3037,6 +3692,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/132.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/132.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/132.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/132.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/132.png"
     }
   }, {
     id: 133,
@@ -3060,6 +3720,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/133.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/133.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/133.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/133.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/133.png"
     }
   }, {
     id: 134,
@@ -3083,6 +3748,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/134.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/134.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/134.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/134.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/134.png"
     }
   }, {
     id: 135,
@@ -3106,6 +3776,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/135.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/135.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/135.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/135.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/135.png"
     }
   }, {
     id: 136,
@@ -3129,6 +3804,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/136.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/136.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/136.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/136.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/136.png"
     }
   }, {
     id: 137,
@@ -3152,6 +3832,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/137.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/137.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/137.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/137.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/137.png"
     }
   }, {
     id: 138,
@@ -3175,6 +3860,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/138.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/138.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/138.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/138.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/138.png"
     }
   }, {
     id: 139,
@@ -3198,6 +3888,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/139.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/139.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/139.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/139.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/139.png"
     }
   }, {
     id: 140,
@@ -3221,6 +3916,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/140.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/140.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/140.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/140.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/140.png"
     }
   }, {
     id: 141,
@@ -3244,6 +3944,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/141.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/141.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/141.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/141.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/141.png"
     }
   }, {
     id: 142,
@@ -3267,6 +3972,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/142.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/142.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/142.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/142.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/142.png"
     }
   }, {
     id: 143,
@@ -3290,6 +4000,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/143.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/143.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/143.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/143.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/143.png"
     }
   }, {
     id: 144,
@@ -3313,6 +4028,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/144.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/144.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/144.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/144.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/144.png"
     }
   }, {
     id: 145,
@@ -3336,6 +4056,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/145.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/145.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/145.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/145.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/145.png"
     }
   }, {
     id: 146,
@@ -3359,6 +4084,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/146.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/146.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/146.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/146.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/146.png"
     }
   }, {
     id: 147,
@@ -3382,6 +4112,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/147.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/147.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/147.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/147.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/147.png"
     }
   }, {
     id: 148,
@@ -3405,6 +4140,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/148.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/148.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/148.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/148.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/148.png"
     }
   }, {
     id: 149,
@@ -3428,6 +4168,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/149.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/149.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/149.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/149.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/149.png"
     }
   }, {
     id: 150,
@@ -3451,6 +4196,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/150.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/150.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/150.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/150.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/150.png"
     }
   }, {
     id: 151,
@@ -3474,6 +4224,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/151.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/151.png"
+    },
+    gen1: {"image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-i/yellow/151.png"},
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/151.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/151.png"
     }
   }, {
     id: 152,
@@ -3497,6 +4252,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/152.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/152.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/152.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/152.png"
     }
   }, {
     id: 153,
@@ -3520,6 +4280,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/153.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/153.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/153.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/153.png"
     }
   }, {
     id: 154,
@@ -3543,6 +4308,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/154.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/154.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/154.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/154.png"
     }
   }, {
     id: 155,
@@ -3566,6 +4336,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/155.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/155.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/155.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/155.png"
     }
   }, {
     id: 156,
@@ -3589,6 +4364,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/156.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/156.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/156.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/156.png"
     }
   }, {
     id: 157,
@@ -3612,6 +4392,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/157.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/157.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/157.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/157.png"
     }
   }, {
     id: 158,
@@ -3635,6 +4420,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/158.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/158.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/158.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/158.png"
     }
   }, {
     id: 159,
@@ -3658,6 +4448,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/159.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/159.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/159.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/159.png"
     }
   }, {
     id: 160,
@@ -3681,6 +4476,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/160.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/160.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/160.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/160.png"
     }
   }, {
     id: 161,
@@ -3704,6 +4504,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/161.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/161.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/161.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/161.png"
     }
   }, {
     id: 162,
@@ -3727,6 +4532,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/162.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/162.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/162.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/162.png"
     }
   }, {
     id: 163,
@@ -3750,6 +4560,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/163.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/163.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/163.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/163.png"
     }
   }, {
     id: 164,
@@ -3773,6 +4588,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/164.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/164.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/164.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/164.png"
     }
   }, {
     id: 165,
@@ -3796,6 +4616,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/165.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/165.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/165.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/165.png"
     }
   }, {
     id: 166,
@@ -3819,6 +4644,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/166.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/166.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/166.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/166.png"
     }
   }, {
     id: 167,
@@ -3842,6 +4672,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/167.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/167.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/167.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/167.png"
     }
   }, {
     id: 168,
@@ -3865,6 +4700,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/168.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/168.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/168.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/168.png"
     }
   }, {
     id: 169,
@@ -3888,6 +4728,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/169.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/169.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/169.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/169.png"
     }
   }, {
     id: 170,
@@ -3911,6 +4756,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/170.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/170.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/170.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/170.png"
     }
   }, {
     id: 171,
@@ -3934,6 +4784,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/171.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/171.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/171.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/171.png"
     }
   }, {
     id: 172,
@@ -3957,6 +4812,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/172.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/172.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/172.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/172.png"
     }
   }, {
     id: 173,
@@ -3980,6 +4840,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/173.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/173.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/173.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/173.png"
     }
   }, {
     id: 174,
@@ -4003,6 +4868,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/174.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/174.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/174.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/174.png"
     }
   }, {
     id: 175,
@@ -4026,6 +4896,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/175.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/175.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/175.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/175.png"
     }
   }, {
     id: 176,
@@ -4049,6 +4924,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/176.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/176.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/176.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/176.png"
     }
   }, {
     id: 177,
@@ -4072,6 +4952,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/177.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/177.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/177.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/177.png"
     }
   }, {
     id: 178,
@@ -4095,6 +4980,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/178.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/178.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/178.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/178.png"
     }
   }, {
     id: 179,
@@ -4118,6 +5008,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/179.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/179.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/179.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/179.png"
     }
   }, {
     id: 180,
@@ -4141,6 +5036,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/180.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/180.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/180.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/180.png"
     }
   }, {
     id: 181,
@@ -4164,6 +5064,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/181.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/181.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/181.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/181.png"
     }
   }, {
     id: 182,
@@ -4187,6 +5092,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/182.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/182.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/182.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/182.png"
     }
   }, {
     id: 183,
@@ -4210,6 +5120,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/183.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/183.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/183.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/183.png"
     }
   }, {
     id: 184,
@@ -4233,6 +5148,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/184.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/184.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/184.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/184.png"
     }
   }, {
     id: 185,
@@ -4256,6 +5176,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/185.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/185.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/185.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/185.png"
     }
   }, {
     id: 186,
@@ -4279,6 +5204,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/186.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/186.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/186.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/186.png"
     }
   }, {
     id: 187,
@@ -4302,6 +5232,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/187.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/187.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/187.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/187.png"
     }
   }, {
     id: 188,
@@ -4325,6 +5260,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/188.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/188.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/188.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/188.png"
     }
   }, {
     id: 189,
@@ -4348,6 +5288,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/189.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/189.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/189.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/189.png"
     }
   }, {
     id: 190,
@@ -4371,6 +5316,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/190.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/190.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/190.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/190.png"
     }
   }, {
     id: 191,
@@ -4394,6 +5344,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/191.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/191.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/191.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/191.png"
     }
   }, {
     id: 192,
@@ -4417,6 +5372,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/192.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/192.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/192.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/192.png"
     }
   }, {
     id: 193,
@@ -4440,6 +5400,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/193.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/193.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/193.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/193.png"
     }
   }, {
     id: 194,
@@ -4463,6 +5428,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/194.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/194.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/194.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/194.png"
     }
   }, {
     id: 195,
@@ -4486,6 +5456,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/195.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/195.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/195.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/195.png"
     }
   }, {
     id: 196,
@@ -4509,6 +5484,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/196.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/196.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/196.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/196.png"
     }
   }, {
     id: 197,
@@ -4532,6 +5512,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/197.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/197.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/197.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/197.png"
     }
   }, {
     id: 198,
@@ -4555,6 +5540,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/198.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/198.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/198.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/198.png"
     }
   }, {
     id: 199,
@@ -4578,6 +5568,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/199.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/199.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/199.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/199.png"
     }
   }, {
     id: 200,
@@ -4601,6 +5596,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/200.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/200.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/200.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/200.png"
     }
   }, {
     id: 201,
@@ -4624,6 +5624,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/201.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/201.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/201.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/201.png"
     }
   }, {
     id: 202,
@@ -4647,6 +5652,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/202.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/202.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/202.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/202.png"
     }
   }, {
     id: 203,
@@ -4670,6 +5680,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/203.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/203.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/203.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/203.png"
     }
   }, {
     id: 204,
@@ -4693,6 +5708,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/204.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/204.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/204.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/204.png"
     }
   }, {
     id: 205,
@@ -4716,6 +5736,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/205.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/205.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/205.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/205.png"
     }
   }, {
     id: 206,
@@ -4739,6 +5764,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/206.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/206.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/206.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/206.png"
     }
   }, {
     id: 207,
@@ -4762,6 +5792,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/207.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/207.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/207.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/207.png"
     }
   }, {
     id: 208,
@@ -4785,6 +5820,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/208.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/208.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/208.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/208.png"
     }
   }, {
     id: 209,
@@ -4808,6 +5848,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/209.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/209.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/209.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/209.png"
     }
   }, {
     id: 210,
@@ -4831,6 +5876,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/210.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/210.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/210.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/210.png"
     }
   }, {
     id: 211,
@@ -4854,6 +5904,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/211.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/211.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/211.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/211.png"
     }
   }, {
     id: 212,
@@ -4877,6 +5932,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/212.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/212.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/212.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/212.png"
     }
   }, {
     id: 213,
@@ -4900,6 +5960,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/213.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/213.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/213.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/213.png"
     }
   }, {
     id: 214,
@@ -4923,6 +5988,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/214.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/214.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/214.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/214.png"
     }
   }, {
     id: 215,
@@ -4946,6 +6016,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/215.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/215.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/215.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/215.png"
     }
   }, {
     id: 216,
@@ -4969,6 +6044,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/216.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/216.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/216.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/216.png"
     }
   }, {
     id: 217,
@@ -4992,6 +6072,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/217.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/217.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/217.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/217.png"
     }
   }, {
     id: 218,
@@ -5015,6 +6100,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/218.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/218.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/218.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/218.png"
     }
   }, {
     id: 219,
@@ -5038,6 +6128,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/219.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/219.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/219.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/219.png"
     }
   }, {
     id: 220,
@@ -5061,6 +6156,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/220.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/220.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/220.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/220.png"
     }
   }, {
     id: 221,
@@ -5084,6 +6184,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/221.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/221.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/221.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/221.png"
     }
   }, {
     id: 222,
@@ -5107,6 +6212,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/222.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/222.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/222.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/222.png"
     }
   }, {
     id: 223,
@@ -5130,6 +6240,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/223.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/223.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/223.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/223.png"
     }
   }, {
     id: 224,
@@ -5153,6 +6268,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/224.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/224.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/224.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/224.png"
     }
   }, {
     id: 225,
@@ -5176,6 +6296,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/225.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/225.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/225.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/225.png"
     }
   }, {
     id: 226,
@@ -5199,6 +6324,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/226.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/226.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/226.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/226.png"
     }
   }, {
     id: 227,
@@ -5222,6 +6352,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/227.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/227.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/227.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/227.png"
     }
   }, {
     id: 228,
@@ -5245,6 +6380,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/228.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/228.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/228.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/228.png"
     }
   }, {
     id: 229,
@@ -5268,6 +6408,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/229.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/229.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/229.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/229.png"
     }
   }, {
     id: 230,
@@ -5291,6 +6436,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/230.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/230.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/230.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/230.png"
     }
   }, {
     id: 231,
@@ -5314,6 +6464,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/231.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/231.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/231.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/231.png"
     }
   }, {
     id: 232,
@@ -5337,6 +6492,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/232.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/232.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/232.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/232.png"
     }
   }, {
     id: 233,
@@ -5360,6 +6520,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/233.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/233.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/233.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/233.png"
     }
   }, {
     id: 234,
@@ -5383,6 +6548,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/234.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/234.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/234.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/234.png"
     }
   }, {
     id: 235,
@@ -5406,6 +6576,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/235.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/235.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/235.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/235.png"
     }
   }, {
     id: 236,
@@ -5429,6 +6604,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/236.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/236.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/236.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/236.png"
     }
   }, {
     id: 237,
@@ -5452,6 +6632,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/237.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/237.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/237.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/237.png"
     }
   }, {
     id: 238,
@@ -5475,6 +6660,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/238.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/238.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/238.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/238.png"
     }
   }, {
     id: 239,
@@ -5498,6 +6688,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/239.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/239.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/239.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/239.png"
     }
   }, {
     id: 240,
@@ -5521,6 +6716,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/240.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/240.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/240.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/240.png"
     }
   }, {
     id: 241,
@@ -5544,6 +6744,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/241.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/241.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/241.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/241.png"
     }
   }, {
     id: 242,
@@ -5567,6 +6772,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/242.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/242.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/242.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/242.png"
     }
   }, {
     id: 243,
@@ -5590,6 +6800,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/243.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/243.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/243.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/243.png"
     }
   }, {
     id: 244,
@@ -5613,6 +6828,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/244.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/244.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/244.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/244.png"
     }
   }, {
     id: 245,
@@ -5636,6 +6856,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/245.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/245.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/245.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/245.png"
     }
   }, {
     id: 246,
@@ -5659,6 +6884,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/246.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/246.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/246.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/246.png"
     }
   }, {
     id: 247,
@@ -5682,6 +6912,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/247.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/247.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/247.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/247.png"
     }
   }, {
     id: 248,
@@ -5705,6 +6940,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/248.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/248.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/248.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/248.png"
     }
   }, {
     id: 249,
@@ -5728,6 +6968,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/249.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/249.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/249.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/249.png"
     }
   }, {
     id: 250,
@@ -5751,6 +6996,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/250.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/250.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/250.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/250.png"
     }
   }, {
     id: 251,
@@ -5774,6 +7024,11 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/251.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/251.png"
+    },
+    gen1: null,
+    gen2: {
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/251.png",
+      "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ii/crystal/shiny/251.png"
     }
   }, {
     id: 252,
@@ -5797,7 +7052,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/252.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/252.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 253,
     name: "Grovyle",
@@ -5820,7 +7077,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/253.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/253.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 254,
     name: "Sceptile",
@@ -5843,7 +7102,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/254.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/254.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 255,
     name: "Torchic",
@@ -5866,7 +7127,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/255.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/255.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 256,
     name: "Combusken",
@@ -5889,7 +7152,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/256.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/256.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 257,
     name: "Blaziken",
@@ -5912,7 +7177,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/257.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/257.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 258,
     name: "Mudkip",
@@ -5935,7 +7202,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/258.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/258.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 259,
     name: "Marshtomp",
@@ -5958,7 +7227,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/259.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/259.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 260,
     name: "Swampert",
@@ -5981,7 +7252,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/260.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/260.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 261,
     name: "Poochyena",
@@ -6004,7 +7277,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/261.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/261.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 262,
     name: "Mightyena",
@@ -6027,7 +7302,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/262.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/262.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 263,
     name: "Zigzagoon",
@@ -6050,7 +7327,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/263.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/263.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 264,
     name: "Linoone",
@@ -6073,7 +7352,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/264.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/264.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 265,
     name: "Wurmple",
@@ -6096,7 +7377,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/265.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/265.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 266,
     name: "Silcoon",
@@ -6119,7 +7402,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/266.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/266.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 267,
     name: "Beautifly",
@@ -6142,7 +7427,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/267.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/267.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 268,
     name: "Cascoon",
@@ -6165,7 +7452,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/268.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/268.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 269,
     name: "Dustox",
@@ -6188,7 +7477,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/269.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/269.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 270,
     name: "Lotad",
@@ -6211,7 +7502,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/270.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/270.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 271,
     name: "Lombre",
@@ -6234,7 +7527,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/271.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/271.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 272,
     name: "Ludicolo",
@@ -6257,7 +7552,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/272.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/272.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 273,
     name: "Seedot",
@@ -6280,7 +7577,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/273.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/273.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 274,
     name: "Nuzleaf",
@@ -6303,7 +7602,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/274.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/274.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 275,
     name: "Shiftry",
@@ -6326,7 +7627,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/275.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/275.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 276,
     name: "Taillow",
@@ -6349,7 +7652,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/276.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/276.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 277,
     name: "Swellow",
@@ -6372,7 +7677,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/277.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/277.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 278,
     name: "Wingull",
@@ -6395,7 +7702,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/278.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/278.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 279,
     name: "Pelipper",
@@ -6418,7 +7727,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/279.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/279.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 280,
     name: "Ralts",
@@ -6441,7 +7752,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/280.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/280.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 281,
     name: "Kirlia",
@@ -6464,7 +7777,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/281.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/281.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 282,
     name: "Gardevoir",
@@ -6487,7 +7802,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/282.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/282.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 283,
     name: "Surskit",
@@ -6510,7 +7827,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/283.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/283.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 284,
     name: "Masquerain",
@@ -6533,7 +7852,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/284.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/284.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 285,
     name: "Shroomish",
@@ -6556,7 +7877,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/285.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/285.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 286,
     name: "Breloom",
@@ -6579,7 +7902,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/286.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/286.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 287,
     name: "Slakoth",
@@ -6602,7 +7927,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/287.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/287.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 288,
     name: "Vigoroth",
@@ -6625,7 +7952,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/288.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/288.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 289,
     name: "Slaking",
@@ -6648,7 +7977,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/289.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/289.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 290,
     name: "Nincada",
@@ -6671,7 +8002,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/290.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/290.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 291,
     name: "Ninjask",
@@ -6694,7 +8027,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/291.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/291.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 292,
     name: "Shedinja",
@@ -6717,7 +8052,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/292.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/292.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 293,
     name: "Whismur",
@@ -6740,7 +8077,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/293.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/293.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 294,
     name: "Loudred",
@@ -6763,7 +8102,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/294.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/294.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 295,
     name: "Exploud",
@@ -6786,7 +8127,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/295.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/295.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 296,
     name: "Makuhita",
@@ -6809,7 +8152,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/296.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/296.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 297,
     name: "Hariyama",
@@ -6832,7 +8177,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/297.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/297.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 298,
     name: "Azurill",
@@ -6855,7 +8202,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/298.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/298.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 299,
     name: "Nosepass",
@@ -6878,7 +8227,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/299.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/299.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 300,
     name: "Skitty",
@@ -6901,7 +8252,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/300.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/300.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 301,
     name: "Delcatty",
@@ -6924,7 +8277,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/301.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/301.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 302,
     name: "Sableye",
@@ -6947,7 +8302,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/302.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/302.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 303,
     name: "Mawile",
@@ -6970,7 +8327,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/303.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/303.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 304,
     name: "Aron",
@@ -6993,7 +8352,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/304.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/304.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 305,
     name: "Lairon",
@@ -7016,7 +8377,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/305.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/305.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 306,
     name: "Aggron",
@@ -7039,7 +8402,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/306.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/306.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 307,
     name: "Meditite",
@@ -7062,7 +8427,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/307.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/307.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 308,
     name: "Medicham",
@@ -7085,7 +8452,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/308.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/308.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 309,
     name: "Electrike",
@@ -7108,7 +8477,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/309.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/309.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 310,
     name: "Manectric",
@@ -7131,7 +8502,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/310.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/310.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 311,
     name: "Plusle",
@@ -7154,7 +8527,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/311.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/311.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 312,
     name: "Minun",
@@ -7177,7 +8552,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/312.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/312.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 313,
     name: "Volbeat",
@@ -7200,7 +8577,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/313.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/313.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 314,
     name: "Illumise",
@@ -7223,7 +8602,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/314.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/314.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 315,
     name: "Roselia",
@@ -7246,7 +8627,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/315.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/315.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 316,
     name: "Gulpin",
@@ -7269,7 +8652,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/316.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/316.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 317,
     name: "Swalot",
@@ -7292,7 +8677,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/317.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/317.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 318,
     name: "Carvanha",
@@ -7315,7 +8702,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/318.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/318.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 319,
     name: "Sharpedo",
@@ -7338,7 +8727,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/319.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/319.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 320,
     name: "Wailmer",
@@ -7361,7 +8752,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/320.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/320.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 321,
     name: "Wailord",
@@ -7384,7 +8777,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/321.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/321.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 322,
     name: "Numel",
@@ -7407,7 +8802,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/322.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/322.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 323,
     name: "Camerupt",
@@ -7430,7 +8827,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/323.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/323.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 324,
     name: "Torkoal",
@@ -7453,7 +8852,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/324.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/324.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 325,
     name: "Spoink",
@@ -7476,7 +8877,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/325.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/325.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 326,
     name: "Grumpig",
@@ -7499,7 +8902,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/326.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/326.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 327,
     name: "Spinda",
@@ -7522,7 +8927,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/327.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/327.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 328,
     name: "Trapinch",
@@ -7545,7 +8952,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/328.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/328.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 329,
     name: "Vibrava",
@@ -7568,7 +8977,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/329.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/329.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 330,
     name: "Flygon",
@@ -7591,7 +9002,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/330.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/330.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 331,
     name: "Cacnea",
@@ -7614,7 +9027,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/331.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/331.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 332,
     name: "Cacturne",
@@ -7637,7 +9052,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/332.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/332.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 333,
     name: "Swablu",
@@ -7660,7 +9077,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/333.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/333.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 334,
     name: "Altaria",
@@ -7683,7 +9102,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/334.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/334.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 335,
     name: "Zangoose",
@@ -7706,7 +9127,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/335.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/335.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 336,
     name: "Seviper",
@@ -7729,7 +9152,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/336.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/336.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 337,
     name: "Lunatone",
@@ -7752,7 +9177,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/337.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/337.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 338,
     name: "Solrock",
@@ -7775,7 +9202,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/338.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/338.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 339,
     name: "Barboach",
@@ -7798,7 +9227,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/339.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/339.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 340,
     name: "Whiscash",
@@ -7821,7 +9252,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/340.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/340.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 341,
     name: "Corphish",
@@ -7844,7 +9277,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/341.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/341.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 342,
     name: "Crawdaunt",
@@ -7867,7 +9302,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/342.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/342.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 343,
     name: "Baltoy",
@@ -7890,7 +9327,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/343.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/343.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 344,
     name: "Claydol",
@@ -7913,7 +9352,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/344.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/344.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 345,
     name: "Lileep",
@@ -7936,7 +9377,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/345.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/345.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 346,
     name: "Cradily",
@@ -7959,7 +9402,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/346.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/346.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 347,
     name: "Anorith",
@@ -7982,7 +9427,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/347.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/347.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 348,
     name: "Armaldo",
@@ -8005,7 +9452,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/348.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/348.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 349,
     name: "Feebas",
@@ -8028,7 +9477,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/349.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/349.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 350,
     name: "Milotic",
@@ -8051,7 +9502,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/350.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/350.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 351,
     name: "Castform",
@@ -8074,7 +9527,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/351.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/351.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 352,
     name: "Kecleon",
@@ -8097,7 +9552,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/352.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/352.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 353,
     name: "Shuppet",
@@ -8120,7 +9577,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/353.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/353.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 354,
     name: "Banette",
@@ -8143,7 +9602,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/354.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/354.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 355,
     name: "Duskull",
@@ -8166,7 +9627,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/355.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/355.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 356,
     name: "Dusclops",
@@ -8189,7 +9652,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/356.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/356.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 357,
     name: "Tropius",
@@ -8212,7 +9677,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/357.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/357.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 358,
     name: "Chimecho",
@@ -8235,7 +9702,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/358.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/358.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 359,
     name: "Absol",
@@ -8258,7 +9727,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/359.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/359.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 360,
     name: "Wynaut",
@@ -8281,7 +9752,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/360.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/360.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 361,
     name: "Snorunt",
@@ -8304,7 +9777,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/361.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/361.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 362,
     name: "Glalie",
@@ -8327,7 +9802,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/362.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/362.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 363,
     name: "Spheal",
@@ -8350,7 +9827,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/363.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/363.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 364,
     name: "Sealeo",
@@ -8373,7 +9852,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/364.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/364.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 365,
     name: "Walrein",
@@ -8396,7 +9877,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/365.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/365.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 366,
     name: "Clamperl",
@@ -8419,7 +9902,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/366.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/366.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 367,
     name: "Huntail",
@@ -8442,7 +9927,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/367.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/367.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 368,
     name: "Gorebyss",
@@ -8465,7 +9952,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/368.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/368.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 369,
     name: "Relicanth",
@@ -8488,7 +9977,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/369.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/369.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 370,
     name: "Luvdisc",
@@ -8511,7 +10002,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/370.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/370.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 371,
     name: "Bagon",
@@ -8534,7 +10027,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/371.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/371.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 372,
     name: "Shelgon",
@@ -8557,7 +10052,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/372.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/372.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 373,
     name: "Salamence",
@@ -8580,7 +10077,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/373.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/373.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 374,
     name: "Beldum",
@@ -8603,7 +10102,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/374.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/374.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 375,
     name: "Metang",
@@ -8626,7 +10127,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/375.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/375.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 376,
     name: "Metagross",
@@ -8649,7 +10152,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/376.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/376.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 377,
     name: "Regirock",
@@ -8672,7 +10177,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/377.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/377.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 378,
     name: "Regice",
@@ -8695,7 +10202,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/378.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/378.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 379,
     name: "Registeel",
@@ -8718,7 +10227,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/379.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/379.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 380,
     name: "Latias",
@@ -8741,7 +10252,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/380.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/380.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 381,
     name: "Latios",
@@ -8764,7 +10277,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/381.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/381.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 382,
     name: "Kyogre",
@@ -8787,7 +10302,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/382.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/382.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 383,
     name: "Groudon",
@@ -8810,7 +10327,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/383.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/383.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 384,
     name: "Rayquaza",
@@ -8833,7 +10352,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/384.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/384.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 385,
     name: "Jirachi",
@@ -8856,10 +10377,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/385.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/385.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 386,
-    name: "Deoxys-normal",
+    name: "Deoxys",
     gen3: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/firered-leafgreen/386.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/firered-leafgreen/shiny/386.png"
@@ -8879,7 +10402,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/386.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/386.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 387,
     name: "Turtwig",
@@ -8899,7 +10424,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/387.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/387.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 388,
     name: "Grotle",
@@ -8919,7 +10446,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/388.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/388.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 389,
     name: "Torterra",
@@ -8939,7 +10468,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/389.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/389.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 390,
     name: "Chimchar",
@@ -8959,7 +10490,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/390.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/390.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 391,
     name: "Monferno",
@@ -8979,7 +10512,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/391.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/391.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 392,
     name: "Infernape",
@@ -8999,7 +10534,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/392.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/392.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 393,
     name: "Piplup",
@@ -9019,7 +10556,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/393.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/393.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 394,
     name: "Prinplup",
@@ -9039,7 +10578,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/394.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/394.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 395,
     name: "Empoleon",
@@ -9059,7 +10600,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/395.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/395.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 396,
     name: "Starly",
@@ -9079,7 +10622,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/396.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/396.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 397,
     name: "Staravia",
@@ -9099,7 +10644,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/397.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/397.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 398,
     name: "Staraptor",
@@ -9119,7 +10666,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/398.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/398.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 399,
     name: "Bidoof",
@@ -9139,7 +10688,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/399.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/399.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 400,
     name: "Bibarel",
@@ -9159,7 +10710,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/400.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/400.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 401,
     name: "Kricketot",
@@ -9179,7 +10732,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/401.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/401.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 402,
     name: "Kricketune",
@@ -9199,7 +10754,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/402.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/402.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 403,
     name: "Shinx",
@@ -9219,7 +10776,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/403.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/403.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 404,
     name: "Luxio",
@@ -9239,7 +10798,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/404.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/404.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 405,
     name: "Luxray",
@@ -9259,7 +10820,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/405.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/405.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 406,
     name: "Budew",
@@ -9279,7 +10842,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/406.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/406.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 407,
     name: "Roserade",
@@ -9299,7 +10864,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/407.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/407.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 408,
     name: "Cranidos",
@@ -9319,7 +10886,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/408.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/408.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 409,
     name: "Rampardos",
@@ -9339,7 +10908,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/409.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/409.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 410,
     name: "Shieldon",
@@ -9359,7 +10930,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/410.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/410.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 411,
     name: "Bastiodon",
@@ -9379,7 +10952,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/411.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/411.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 412,
     name: "Burmy",
@@ -9399,10 +10974,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/412.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/412.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 413,
-    name: "Wormadam-plant",
+    name: "Wormadam",
     gen3: null,
     gen4: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/413.png",
@@ -9419,7 +10996,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/413.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/413.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 414,
     name: "Mothim",
@@ -9439,7 +11018,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/414.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/414.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 415,
     name: "Combee",
@@ -9459,7 +11040,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/415.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/415.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 416,
     name: "Vespiquen",
@@ -9479,7 +11062,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/416.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/416.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 417,
     name: "Pachirisu",
@@ -9499,7 +11084,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/417.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/417.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 418,
     name: "Buizel",
@@ -9519,7 +11106,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/418.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/418.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 419,
     name: "Floatzel",
@@ -9539,7 +11128,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/419.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/419.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 420,
     name: "Cherubi",
@@ -9559,7 +11150,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/420.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/420.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 421,
     name: "Cherrim",
@@ -9579,7 +11172,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/421.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/421.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 422,
     name: "Shellos",
@@ -9599,7 +11194,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/422.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/422.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 423,
     name: "Gastrodon",
@@ -9619,7 +11216,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/423.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/423.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 424,
     name: "Ambipom",
@@ -9639,7 +11238,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/424.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/424.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 425,
     name: "Drifloon",
@@ -9659,7 +11260,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/425.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/425.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 426,
     name: "Drifblim",
@@ -9679,7 +11282,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/426.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/426.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 427,
     name: "Buneary",
@@ -9699,7 +11304,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/427.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/427.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 428,
     name: "Lopunny",
@@ -9719,7 +11326,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/428.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/428.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 429,
     name: "Mismagius",
@@ -9739,7 +11348,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/429.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/429.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 430,
     name: "Honchkrow",
@@ -9759,7 +11370,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/430.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/430.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 431,
     name: "Glameow",
@@ -9779,7 +11392,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/431.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/431.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 432,
     name: "Purugly",
@@ -9799,7 +11414,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/432.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/432.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 433,
     name: "Chingling",
@@ -9819,7 +11436,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/433.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/433.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 434,
     name: "Stunky",
@@ -9839,7 +11458,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/434.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/434.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 435,
     name: "Skuntank",
@@ -9859,7 +11480,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/435.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/435.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 436,
     name: "Bronzor",
@@ -9879,7 +11502,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/436.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/436.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 437,
     name: "Bronzong",
@@ -9899,7 +11524,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/437.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/437.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 438,
     name: "Bonsly",
@@ -9919,10 +11546,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/438.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/438.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 439,
-    name: "Mime-jr",
+    name: "Mime Jr.",
     gen3: null,
     gen4: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/439.png",
@@ -9939,7 +11568,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/439.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/439.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 440,
     name: "Happiny",
@@ -9959,7 +11590,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/440.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/440.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 441,
     name: "Chatot",
@@ -9979,7 +11612,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/441.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/441.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 442,
     name: "Spiritomb",
@@ -9999,7 +11634,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/442.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/442.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 443,
     name: "Gible",
@@ -10019,7 +11656,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/443.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/443.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 444,
     name: "Gabite",
@@ -10039,7 +11678,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/444.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/444.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 445,
     name: "Garchomp",
@@ -10059,7 +11700,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/445.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/445.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 446,
     name: "Munchlax",
@@ -10079,7 +11722,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/446.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/446.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 447,
     name: "Riolu",
@@ -10099,7 +11744,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/447.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/447.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 448,
     name: "Lucario",
@@ -10119,7 +11766,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/448.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/448.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 449,
     name: "Hippopotas",
@@ -10139,7 +11788,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/449.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/449.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 450,
     name: "Hippowdon",
@@ -10159,7 +11810,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/450.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/450.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 451,
     name: "Skorupi",
@@ -10179,7 +11832,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/451.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/451.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 452,
     name: "Drapion",
@@ -10199,7 +11854,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/452.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/452.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 453,
     name: "Croagunk",
@@ -10219,7 +11876,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/453.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/453.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 454,
     name: "Toxicroak",
@@ -10239,7 +11898,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/454.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/454.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 455,
     name: "Carnivine",
@@ -10259,7 +11920,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/455.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/455.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 456,
     name: "Finneon",
@@ -10279,7 +11942,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/456.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/456.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 457,
     name: "Lumineon",
@@ -10299,7 +11964,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/457.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/457.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 458,
     name: "Mantyke",
@@ -10319,7 +11986,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/458.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/458.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 459,
     name: "Snover",
@@ -10339,7 +12008,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/459.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/459.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 460,
     name: "Abomasnow",
@@ -10359,7 +12030,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/460.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/460.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 461,
     name: "Weavile",
@@ -10379,7 +12052,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/461.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/461.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 462,
     name: "Magnezone",
@@ -10399,7 +12074,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/462.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/462.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 463,
     name: "Lickilicky",
@@ -10419,7 +12096,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/463.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/463.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 464,
     name: "Rhyperior",
@@ -10439,7 +12118,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/464.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/464.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 465,
     name: "Tangrowth",
@@ -10459,7 +12140,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/465.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/465.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 466,
     name: "Electivire",
@@ -10479,7 +12162,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/466.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/466.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 467,
     name: "Magmortar",
@@ -10499,7 +12184,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/467.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/467.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 468,
     name: "Togekiss",
@@ -10519,7 +12206,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/468.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/468.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 469,
     name: "Yanmega",
@@ -10539,7 +12228,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/469.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/469.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 470,
     name: "Leafeon",
@@ -10559,7 +12250,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/470.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/470.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 471,
     name: "Glaceon",
@@ -10579,7 +12272,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/471.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/471.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 472,
     name: "Gliscor",
@@ -10599,7 +12294,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/472.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/472.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 473,
     name: "Mamoswine",
@@ -10619,10 +12316,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/473.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/473.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 474,
-    name: "Porygon-z",
+    name: "Porygon-Z",
     gen3: null,
     gen4: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/474.png",
@@ -10639,7 +12338,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/474.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/474.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 475,
     name: "Gallade",
@@ -10659,7 +12360,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/475.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/475.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 476,
     name: "Probopass",
@@ -10679,7 +12382,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/476.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/476.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 477,
     name: "Dusknoir",
@@ -10699,7 +12404,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/477.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/477.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 478,
     name: "Froslass",
@@ -10719,7 +12426,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/478.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/478.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 479,
     name: "Rotom",
@@ -10739,7 +12448,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/479.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/479.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 480,
     name: "Uxie",
@@ -10759,7 +12470,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/480.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/480.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 481,
     name: "Mesprit",
@@ -10779,7 +12492,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/481.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/481.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 482,
     name: "Azelf",
@@ -10799,7 +12514,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/482.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/482.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 483,
     name: "Dialga",
@@ -10819,7 +12536,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/483.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/483.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 484,
     name: "Palkia",
@@ -10839,7 +12558,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/484.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/484.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 485,
     name: "Heatran",
@@ -10859,7 +12580,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/485.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/485.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 486,
     name: "Regigigas",
@@ -10879,10 +12602,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/486.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/486.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 487,
-    name: "Giratina-altered",
+    name: "Giratina",
     gen3: null,
     gen4: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/487.png",
@@ -10899,7 +12624,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/487.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/487.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 488,
     name: "Cresselia",
@@ -10919,7 +12646,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/488.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/488.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 489,
     name: "Phione",
@@ -10939,7 +12668,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/489.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/489.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 490,
     name: "Manaphy",
@@ -10959,7 +12690,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/490.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/490.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 491,
     name: "Darkrai",
@@ -10979,10 +12712,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/491.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/491.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 492,
-    name: "Shaymin-land",
+    name: "Shaymin",
     gen3: null,
     gen4: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/492.png",
@@ -10999,7 +12734,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/492.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/492.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 493,
     name: "Arceus",
@@ -11019,7 +12756,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/493.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/493.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 494,
     name: "Victini",
@@ -11036,7 +12775,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/494.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/494.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 495,
     name: "Snivy",
@@ -11053,7 +12794,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/495.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/495.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 496,
     name: "Servine",
@@ -11070,7 +12813,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/496.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/496.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 497,
     name: "Serperior",
@@ -11087,7 +12832,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/497.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/497.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 498,
     name: "Tepig",
@@ -11104,7 +12851,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/498.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/498.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 499,
     name: "Pignite",
@@ -11121,7 +12870,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/499.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/499.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 500,
     name: "Emboar",
@@ -11138,7 +12889,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/500.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/500.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 501,
     name: "Oshawott",
@@ -11155,7 +12908,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/501.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/501.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 502,
     name: "Dewott",
@@ -11172,7 +12927,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/502.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/502.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 503,
     name: "Samurott",
@@ -11189,7 +12946,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/503.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/503.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 504,
     name: "Patrat",
@@ -11206,7 +12965,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/504.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/504.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 505,
     name: "Watchog",
@@ -11223,7 +12984,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/505.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/505.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 506,
     name: "Lillipup",
@@ -11240,7 +13003,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/506.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/506.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 507,
     name: "Herdier",
@@ -11257,7 +13022,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/507.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/507.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 508,
     name: "Stoutland",
@@ -11274,7 +13041,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/508.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/508.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 509,
     name: "Purrloin",
@@ -11291,7 +13060,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/509.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/509.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 510,
     name: "Liepard",
@@ -11308,7 +13079,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/510.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/510.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 511,
     name: "Pansage",
@@ -11325,7 +13098,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/511.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/511.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 512,
     name: "Simisage",
@@ -11342,7 +13117,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/512.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/512.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 513,
     name: "Pansear",
@@ -11359,7 +13136,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/513.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/513.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 514,
     name: "Simisear",
@@ -11376,7 +13155,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/514.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/514.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 515,
     name: "Panpour",
@@ -11393,7 +13174,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/515.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/515.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 516,
     name: "Simipour",
@@ -11410,7 +13193,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/516.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/516.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 517,
     name: "Munna",
@@ -11427,7 +13212,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/517.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/517.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 518,
     name: "Musharna",
@@ -11444,7 +13231,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/518.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/518.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 519,
     name: "Pidove",
@@ -11461,7 +13250,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/519.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/519.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 520,
     name: "Tranquill",
@@ -11478,7 +13269,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/520.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/520.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 521,
     name: "Unfezant",
@@ -11495,7 +13288,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/521.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/521.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 522,
     name: "Blitzle",
@@ -11512,7 +13307,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/522.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/522.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 523,
     name: "Zebstrika",
@@ -11529,7 +13326,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/523.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/523.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 524,
     name: "Roggenrola",
@@ -11546,7 +13345,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/524.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/524.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 525,
     name: "Boldore",
@@ -11563,7 +13364,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/525.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/525.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 526,
     name: "Gigalith",
@@ -11580,7 +13383,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/526.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/526.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 527,
     name: "Woobat",
@@ -11597,7 +13402,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/527.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/527.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 528,
     name: "Swoobat",
@@ -11614,7 +13421,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/528.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/528.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 529,
     name: "Drilbur",
@@ -11631,7 +13440,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/529.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/529.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 530,
     name: "Excadrill",
@@ -11648,7 +13459,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/530.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/530.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 531,
     name: "Audino",
@@ -11665,7 +13478,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/531.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/531.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 532,
     name: "Timburr",
@@ -11682,7 +13497,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/532.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/532.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 533,
     name: "Gurdurr",
@@ -11699,7 +13516,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/533.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/533.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 534,
     name: "Conkeldurr",
@@ -11716,7 +13535,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/534.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/534.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 535,
     name: "Tympole",
@@ -11733,7 +13554,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/535.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/535.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 536,
     name: "Palpitoad",
@@ -11750,7 +13573,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/536.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/536.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 537,
     name: "Seismitoad",
@@ -11767,7 +13592,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/537.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/537.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 538,
     name: "Throh",
@@ -11784,7 +13611,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/538.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/538.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 539,
     name: "Sawk",
@@ -11801,7 +13630,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/539.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/539.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 540,
     name: "Sewaddle",
@@ -11818,7 +13649,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/540.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/540.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 541,
     name: "Swadloon",
@@ -11835,7 +13668,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/541.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/541.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 542,
     name: "Leavanny",
@@ -11852,7 +13687,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/542.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/542.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 543,
     name: "Venipede",
@@ -11869,7 +13706,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/543.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/543.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 544,
     name: "Whirlipede",
@@ -11886,7 +13725,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/544.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/544.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 545,
     name: "Scolipede",
@@ -11903,7 +13744,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/545.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/545.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 546,
     name: "Cottonee",
@@ -11920,7 +13763,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/546.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/546.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 547,
     name: "Whimsicott",
@@ -11937,7 +13782,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/547.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/547.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 548,
     name: "Petilil",
@@ -11954,7 +13801,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/548.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/548.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 549,
     name: "Lilligant",
@@ -11971,10 +13820,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/549.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/549.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 550,
-    name: "Basculin-red-striped",
+    name: "Basculin",
     gen3: null,
     gen4: null,
     gen5: {
@@ -11988,7 +13839,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/550.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/550.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 551,
     name: "Sandile",
@@ -12005,7 +13858,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/551.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/551.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 552,
     name: "Krokorok",
@@ -12022,7 +13877,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/552.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/552.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 553,
     name: "Krookodile",
@@ -12039,7 +13896,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/553.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/553.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 554,
     name: "Darumaka",
@@ -12056,10 +13915,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/554.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/554.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 555,
-    name: "Darmanitan-standard",
+    name: "Darmanitan",
     gen3: null,
     gen4: null,
     gen5: {
@@ -12073,7 +13934,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/555.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/555.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 556,
     name: "Maractus",
@@ -12090,7 +13953,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/556.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/556.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 557,
     name: "Dwebble",
@@ -12107,7 +13972,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/557.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/557.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 558,
     name: "Crustle",
@@ -12124,7 +13991,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/558.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/558.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 559,
     name: "Scraggy",
@@ -12141,7 +14010,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/559.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/559.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 560,
     name: "Scrafty",
@@ -12158,7 +14029,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/560.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/560.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 561,
     name: "Sigilyph",
@@ -12175,7 +14048,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/561.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/561.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 562,
     name: "Yamask",
@@ -12192,7 +14067,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/562.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/562.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 563,
     name: "Cofagrigus",
@@ -12209,7 +14086,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/563.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/563.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 564,
     name: "Tirtouga",
@@ -12226,7 +14105,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/564.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/564.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 565,
     name: "Carracosta",
@@ -12243,7 +14124,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/565.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/565.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 566,
     name: "Archen",
@@ -12260,7 +14143,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/566.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/566.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 567,
     name: "Archeops",
@@ -12277,7 +14162,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/567.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/567.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 568,
     name: "Trubbish",
@@ -12294,7 +14181,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/568.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/568.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 569,
     name: "Garbodor",
@@ -12311,7 +14200,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/569.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/569.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 570,
     name: "Zorua",
@@ -12328,7 +14219,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/570.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/570.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 571,
     name: "Zoroark",
@@ -12345,7 +14238,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/571.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/571.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 572,
     name: "Minccino",
@@ -12362,7 +14257,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/572.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/572.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 573,
     name: "Cinccino",
@@ -12379,7 +14276,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/573.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/573.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 574,
     name: "Gothita",
@@ -12396,7 +14295,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/574.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/574.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 575,
     name: "Gothorita",
@@ -12413,7 +14314,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/575.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/575.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 576,
     name: "Gothitelle",
@@ -12430,7 +14333,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/576.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/576.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 577,
     name: "Solosis",
@@ -12447,7 +14352,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/577.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/577.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 578,
     name: "Duosion",
@@ -12464,7 +14371,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/578.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/578.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 579,
     name: "Reuniclus",
@@ -12481,7 +14390,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/579.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/579.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 580,
     name: "Ducklett",
@@ -12498,7 +14409,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/580.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/580.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 581,
     name: "Swanna",
@@ -12515,7 +14428,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/581.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/581.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 582,
     name: "Vanillite",
@@ -12532,7 +14447,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/582.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/582.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 583,
     name: "Vanillish",
@@ -12549,7 +14466,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/583.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/583.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 584,
     name: "Vanilluxe",
@@ -12566,7 +14485,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/584.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/584.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 585,
     name: "Deerling",
@@ -12583,7 +14504,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/585.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/585.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 586,
     name: "Sawsbuck",
@@ -12600,7 +14523,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/586.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/586.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 587,
     name: "Emolga",
@@ -12617,7 +14542,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/587.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/587.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 588,
     name: "Karrablast",
@@ -12634,7 +14561,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/588.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/588.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 589,
     name: "Escavalier",
@@ -12651,7 +14580,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/589.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/589.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 590,
     name: "Foongus",
@@ -12668,7 +14599,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/590.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/590.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 591,
     name: "Amoonguss",
@@ -12685,7 +14618,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/591.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/591.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 592,
     name: "Frillish",
@@ -12702,7 +14637,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/592.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/592.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 593,
     name: "Jellicent",
@@ -12719,7 +14656,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/593.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/593.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 594,
     name: "Alomomola",
@@ -12736,7 +14675,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/594.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/594.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 595,
     name: "Joltik",
@@ -12753,7 +14694,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/595.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/595.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 596,
     name: "Galvantula",
@@ -12770,7 +14713,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/596.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/596.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 597,
     name: "Ferroseed",
@@ -12787,7 +14732,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/597.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/597.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 598,
     name: "Ferrothorn",
@@ -12804,7 +14751,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/598.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/598.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 599,
     name: "Klink",
@@ -12821,7 +14770,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/599.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/599.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 600,
     name: "Klang",
@@ -12838,7 +14789,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/600.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/600.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 601,
     name: "Klinklang",
@@ -12855,7 +14808,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/601.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/601.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 602,
     name: "Tynamo",
@@ -12872,7 +14827,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/602.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/602.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 603,
     name: "Eelektrik",
@@ -12889,7 +14846,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/603.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/603.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 604,
     name: "Eelektross",
@@ -12906,7 +14865,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/604.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/604.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 605,
     name: "Elgyem",
@@ -12923,7 +14884,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/605.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/605.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 606,
     name: "Beheeyem",
@@ -12940,7 +14903,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/606.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/606.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 607,
     name: "Litwick",
@@ -12957,7 +14922,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/607.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/607.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 608,
     name: "Lampent",
@@ -12974,7 +14941,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/608.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/608.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 609,
     name: "Chandelure",
@@ -12991,7 +14960,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/609.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/609.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 610,
     name: "Axew",
@@ -13008,7 +14979,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/610.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/610.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 611,
     name: "Fraxure",
@@ -13025,7 +14998,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/611.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/611.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 612,
     name: "Haxorus",
@@ -13042,7 +15017,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/612.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/612.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 613,
     name: "Cubchoo",
@@ -13059,7 +15036,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/613.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/613.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 614,
     name: "Beartic",
@@ -13076,7 +15055,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/614.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/614.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 615,
     name: "Cryogonal",
@@ -13093,7 +15074,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/615.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/615.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 616,
     name: "Shelmet",
@@ -13110,7 +15093,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/616.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/616.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 617,
     name: "Accelgor",
@@ -13127,7 +15112,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/617.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/617.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 618,
     name: "Stunfisk",
@@ -13144,7 +15131,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/618.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/618.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 619,
     name: "Mienfoo",
@@ -13161,7 +15150,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/619.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/619.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 620,
     name: "Mienshao",
@@ -13178,7 +15169,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/620.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/620.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 621,
     name: "Druddigon",
@@ -13195,7 +15188,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/621.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/621.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 622,
     name: "Golett",
@@ -13212,7 +15207,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/622.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/622.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 623,
     name: "Golurk",
@@ -13229,7 +15226,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/623.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/623.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 624,
     name: "Pawniard",
@@ -13246,7 +15245,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/624.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/624.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 625,
     name: "Bisharp",
@@ -13263,7 +15264,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/625.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/625.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 626,
     name: "Bouffalant",
@@ -13280,7 +15283,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/626.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/626.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 627,
     name: "Rufflet",
@@ -13297,7 +15302,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/627.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/627.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 628,
     name: "Braviary",
@@ -13314,7 +15321,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/628.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/628.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 629,
     name: "Vullaby",
@@ -13331,7 +15340,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/629.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/629.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 630,
     name: "Mandibuzz",
@@ -13348,7 +15359,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/630.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/630.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 631,
     name: "Heatmor",
@@ -13365,7 +15378,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/631.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/631.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 632,
     name: "Durant",
@@ -13382,7 +15397,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/632.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/632.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 633,
     name: "Deino",
@@ -13399,7 +15416,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/633.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/633.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 634,
     name: "Zweilous",
@@ -13416,7 +15435,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/634.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/634.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 635,
     name: "Hydreigon",
@@ -13433,7 +15454,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/635.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/635.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 636,
     name: "Larvesta",
@@ -13450,7 +15473,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/636.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/636.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 637,
     name: "Volcarona",
@@ -13467,7 +15492,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/637.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/637.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 638,
     name: "Cobalion",
@@ -13484,7 +15511,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/638.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/638.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 639,
     name: "Terrakion",
@@ -13501,7 +15530,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/639.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/639.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 640,
     name: "Virizion",
@@ -13518,10 +15549,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/640.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/640.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 641,
-    name: "Tornadus-incarnate",
+    name: "Tornadus",
     gen3: null,
     gen4: null,
     gen5: {
@@ -13535,10 +15568,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/641.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/641.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 642,
-    name: "Thundurus-incarnate",
+    name: "Thundurus",
     gen3: null,
     gen4: null,
     gen5: {
@@ -13552,7 +15587,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/642.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/642.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 643,
     name: "Reshiram",
@@ -13569,7 +15606,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/643.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/643.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 644,
     name: "Zekrom",
@@ -13586,10 +15625,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/644.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/644.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 645,
-    name: "Landorus-incarnate",
+    name: "Landorus",
     gen3: null,
     gen4: null,
     gen5: {
@@ -13603,7 +15644,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/645.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/645.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 646,
     name: "Kyurem",
@@ -13620,10 +15663,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/646.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/646.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 647,
-    name: "Keldeo-ordinary",
+    name: "Keldeo",
     gen3: null,
     gen4: null,
     gen5: {
@@ -13637,10 +15682,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/647.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/647.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 648,
-    name: "Meloetta-aria",
+    name: "Meloetta",
     gen3: null,
     gen4: null,
     gen5: {
@@ -13654,7 +15701,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/648.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/648.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 649,
     name: "Genesect",
@@ -13671,7 +15720,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/649.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/649.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 650,
     name: "Chespin",
@@ -13688,7 +15739,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/650.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/650.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 651,
     name: "Quilladin",
@@ -13705,7 +15758,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/651.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/651.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 652,
     name: "Chesnaught",
@@ -13722,7 +15777,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/652.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/652.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 653,
     name: "Fennekin",
@@ -13739,7 +15796,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/653.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/653.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 654,
     name: "Braixen",
@@ -13756,7 +15815,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/654.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/654.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 655,
     name: "Delphox",
@@ -13773,7 +15834,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/655.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/655.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 656,
     name: "Froakie",
@@ -13790,7 +15853,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/656.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/656.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 657,
     name: "Frogadier",
@@ -13807,7 +15872,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/657.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/657.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 658,
     name: "Greninja",
@@ -13824,7 +15891,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/658.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/658.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 659,
     name: "Bunnelby",
@@ -13841,7 +15910,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/659.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/659.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 660,
     name: "Diggersby",
@@ -13858,7 +15929,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/660.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/660.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 661,
     name: "Fletchling",
@@ -13875,7 +15948,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/661.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/661.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 662,
     name: "Fletchinder",
@@ -13892,7 +15967,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/662.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/662.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 663,
     name: "Talonflame",
@@ -13909,7 +15986,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/663.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/663.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 664,
     name: "Scatterbug",
@@ -13926,7 +16005,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/664.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/664.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 665,
     name: "Spewpa",
@@ -13943,7 +16024,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/665.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/665.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 666,
     name: "Vivillon",
@@ -13960,7 +16043,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/666.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/666.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 667,
     name: "Litleo",
@@ -13977,7 +16062,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/667.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/667.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 668,
     name: "Pyroar",
@@ -13994,7 +16081,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/668.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/668.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 669,
     name: "Flabebe",
@@ -14011,7 +16100,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/669.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/669.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 670,
     name: "Floette",
@@ -14028,7 +16119,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/670.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/670.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 671,
     name: "Florges",
@@ -14045,7 +16138,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/671.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/671.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 672,
     name: "Skiddo",
@@ -14062,7 +16157,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/672.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/672.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 673,
     name: "Gogoat",
@@ -14079,7 +16176,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/673.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/673.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 674,
     name: "Pancham",
@@ -14096,7 +16195,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/674.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/674.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 675,
     name: "Pangoro",
@@ -14113,7 +16214,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/675.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/675.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 676,
     name: "Furfrou",
@@ -14130,7 +16233,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/676.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/676.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 677,
     name: "Espurr",
@@ -14147,10 +16252,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/677.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/677.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 678,
-    name: "Meowstic-male",
+    name: "Meowstic",
     gen3: null,
     gen4: null,
     gen5: {
@@ -14164,7 +16271,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/678.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/678.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 679,
     name: "Honedge",
@@ -14181,7 +16290,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/679.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/679.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 680,
     name: "Doublade",
@@ -14198,10 +16309,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/680.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/680.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 681,
-    name: "Aegislash-shield",
+    name: "Aegislash",
     gen3: null,
     gen4: null,
     gen5: {
@@ -14215,7 +16328,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/681.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/681.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 682,
     name: "Spritzee",
@@ -14232,7 +16347,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/682.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/682.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 683,
     name: "Aromatisse",
@@ -14249,7 +16366,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/683.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/683.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 684,
     name: "Swirlix",
@@ -14266,7 +16385,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/684.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/684.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 685,
     name: "Slurpuff",
@@ -14283,7 +16404,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/685.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/685.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 686,
     name: "Inkay",
@@ -14300,7 +16423,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/686.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/686.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 687,
     name: "Malamar",
@@ -14317,7 +16442,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/687.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/687.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 688,
     name: "Binacle",
@@ -14334,7 +16461,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/688.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/688.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 689,
     name: "Barbaracle",
@@ -14351,7 +16480,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/689.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/689.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 690,
     name: "Skrelp",
@@ -14368,7 +16499,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/690.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/690.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 691,
     name: "Dragalge",
@@ -14385,7 +16518,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/691.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/691.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 692,
     name: "Clauncher",
@@ -14402,7 +16537,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/692.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/692.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 693,
     name: "Clawitzer",
@@ -14419,7 +16556,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/693.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/693.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 694,
     name: "Helioptile",
@@ -14436,7 +16575,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/694.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/694.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 695,
     name: "Heliolisk",
@@ -14453,7 +16594,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/695.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/695.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 696,
     name: "Tyrunt",
@@ -14470,7 +16613,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/696.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/696.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 697,
     name: "Tyrantrum",
@@ -14487,7 +16632,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/697.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/697.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 698,
     name: "Amaura",
@@ -14504,7 +16651,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/698.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/698.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 699,
     name: "Aurorus",
@@ -14521,7 +16670,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/699.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/699.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 700,
     name: "Sylveon",
@@ -14538,7 +16689,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/700.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/700.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 701,
     name: "Hawlucha",
@@ -14555,7 +16708,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/701.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/701.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 702,
     name: "Dedenne",
@@ -14572,7 +16727,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/702.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/702.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 703,
     name: "Carbink",
@@ -14589,7 +16746,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/703.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/703.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 704,
     name: "Goomy",
@@ -14606,7 +16765,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/704.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/704.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 705,
     name: "Sliggoo",
@@ -14623,7 +16784,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/705.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/705.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 706,
     name: "Goodra",
@@ -14640,7 +16803,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/706.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/706.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 707,
     name: "Klefki",
@@ -14657,7 +16822,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/707.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/707.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 708,
     name: "Phantump",
@@ -14674,7 +16841,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/708.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/708.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 709,
     name: "Trevenant",
@@ -14691,10 +16860,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/709.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/709.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 710,
-    name: "Pumpkaboo-average",
+    name: "Pumpkaboo",
     gen3: null,
     gen4: null,
     gen5: {
@@ -14708,10 +16879,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/710.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/710.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 711,
-    name: "Gourgeist-average",
+    name: "Gourgeist",
     gen3: null,
     gen4: null,
     gen5: {
@@ -14725,7 +16898,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/711.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/711.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 712,
     name: "Bergmite",
@@ -14742,7 +16917,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/712.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/712.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 713,
     name: "Avalugg",
@@ -14759,7 +16936,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/713.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/713.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 714,
     name: "Noibat",
@@ -14776,7 +16955,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/714.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/714.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 715,
     name: "Noivern",
@@ -14793,7 +16974,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/715.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/715.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 716,
     name: "Xerneas",
@@ -14810,7 +16993,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/716.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/716.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 717,
     name: "Yveltal",
@@ -14827,7 +17012,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/717.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/717.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 718,
     name: "Zygarde",
@@ -14844,7 +17031,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/718.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/718.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 719,
     name: "Diancie",
@@ -14861,7 +17050,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/719.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/719.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 720,
     name: "Hoopa",
@@ -14878,7 +17069,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/720.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/720.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 721,
     name: "Volcanion",
@@ -14895,7 +17088,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/721.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/721.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 722,
     name: "Rowlet",
@@ -14909,7 +17104,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/722.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/722.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 723,
     name: "Dartrix",
@@ -14923,7 +17120,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/723.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/723.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 724,
     name: "Decidueye",
@@ -14937,7 +17136,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/724.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/724.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 725,
     name: "Litten",
@@ -14951,7 +17152,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/725.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/725.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 726,
     name: "Torracat",
@@ -14965,7 +17168,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/726.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/726.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 727,
     name: "Incineroar",
@@ -14979,7 +17184,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/727.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/727.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 728,
     name: "Popplio",
@@ -14993,7 +17200,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/728.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/728.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 729,
     name: "Brionne",
@@ -15007,7 +17216,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/729.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/729.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 730,
     name: "Primarina",
@@ -15021,7 +17232,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/730.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/730.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 731,
     name: "Pikipek",
@@ -15035,7 +17248,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/731.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/731.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 732,
     name: "Trumbeak",
@@ -15049,7 +17264,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/732.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/732.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 733,
     name: "Toucannon",
@@ -15063,7 +17280,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/733.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/733.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 734,
     name: "Yungoos",
@@ -15077,7 +17296,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/734.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/734.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 735,
     name: "Gumshoos",
@@ -15091,7 +17312,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/735.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/735.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 736,
     name: "Grubbin",
@@ -15105,7 +17328,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/736.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/736.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 737,
     name: "Charjabug",
@@ -15119,7 +17344,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/737.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/737.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 738,
     name: "Vikavolt",
@@ -15133,7 +17360,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/738.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/738.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 739,
     name: "Crabrawler",
@@ -15147,7 +17376,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/739.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/739.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 740,
     name: "Crabominable",
@@ -15161,10 +17392,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/740.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/740.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 741,
-    name: "Oricorio-baile",
+    name: "Oricorio",
     gen3: null,
     gen4: null,
     gen5: {
@@ -15175,7 +17408,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/741.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/741.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 742,
     name: "Cutiefly",
@@ -15189,7 +17424,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/742.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/742.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 743,
     name: "Ribombee",
@@ -15203,7 +17440,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/743.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/743.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 744,
     name: "Rockruff",
@@ -15217,10 +17456,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/744.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/744.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 745,
-    name: "Lycanroc-midday",
+    name: "Lycanroc",
     gen3: null,
     gen4: null,
     gen5: {
@@ -15231,10 +17472,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/745.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/745.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 746,
-    name: "Wishiwashi-solo",
+    name: "Wishiwashi",
     gen3: null,
     gen4: null,
     gen5: {
@@ -15245,7 +17488,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/746.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/746.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 747,
     name: "Mareanie",
@@ -15259,7 +17504,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/747.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/747.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 748,
     name: "Toxapex",
@@ -15273,7 +17520,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/748.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/748.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 749,
     name: "Mudbray",
@@ -15287,7 +17536,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/749.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/749.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 750,
     name: "Mudsdale",
@@ -15301,7 +17552,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/750.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/750.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 751,
     name: "Dewpider",
@@ -15315,7 +17568,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/751.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/751.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 752,
     name: "Araquanid",
@@ -15329,7 +17584,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/752.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/752.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 753,
     name: "Fomantis",
@@ -15343,7 +17600,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/753.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/753.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 754,
     name: "Lurantis",
@@ -15357,7 +17616,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/754.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/754.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 755,
     name: "Morelull",
@@ -15371,7 +17632,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/755.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/755.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 756,
     name: "Shiinotic",
@@ -15385,7 +17648,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/756.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/756.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 757,
     name: "Salandit",
@@ -15399,7 +17664,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/757.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/757.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 758,
     name: "Salazzle",
@@ -15413,7 +17680,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/758.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/758.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 759,
     name: "Stufful",
@@ -15427,7 +17696,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/759.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/759.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 760,
     name: "Bewear",
@@ -15441,7 +17712,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/760.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/760.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 761,
     name: "Bounsweet",
@@ -15455,7 +17728,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/761.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/761.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 762,
     name: "Steenee",
@@ -15469,7 +17744,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/762.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/762.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 763,
     name: "Tsareena",
@@ -15483,7 +17760,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/763.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/763.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 764,
     name: "Comfey",
@@ -15497,7 +17776,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/764.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/764.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 765,
     name: "Oranguru",
@@ -15511,7 +17792,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/765.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/765.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 766,
     name: "Passimian",
@@ -15525,7 +17808,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/766.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/766.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 767,
     name: "Wimpod",
@@ -15539,7 +17824,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/767.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/767.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 768,
     name: "Golisopod",
@@ -15553,7 +17840,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/768.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/768.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 769,
     name: "Sandygast",
@@ -15567,7 +17856,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/769.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/769.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 770,
     name: "Palossand",
@@ -15581,7 +17872,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/770.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/770.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 771,
     name: "Pyukumuku",
@@ -15595,10 +17888,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/771.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/771.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 772,
-    name: "Type-null",
+    name: "Type",
     gen3: null,
     gen4: null,
     gen5: {
@@ -15609,7 +17904,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/772.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/772.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 773,
     name: "Silvally",
@@ -15623,10 +17920,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/773.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/773.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 774,
-    name: "Minior-red-meteor",
+    name: "Minior",
     gen3: null,
     gen4: null,
     gen5: {
@@ -15637,7 +17936,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/774.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/774.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 775,
     name: "Komala",
@@ -15651,7 +17952,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/775.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/775.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 776,
     name: "Turtonator",
@@ -15665,7 +17968,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/776.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/776.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 777,
     name: "Togedemaru",
@@ -15679,10 +17984,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/777.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/777.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 778,
-    name: "Mimikyu-disguised",
+    name: "Mimikyu",
     gen3: null,
     gen4: null,
     gen5: {
@@ -15693,7 +18000,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/778.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/778.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 779,
     name: "Bruxish",
@@ -15707,7 +18016,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/779.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/779.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 780,
     name: "Drampa",
@@ -15721,7 +18032,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/780.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/780.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 781,
     name: "Dhelmise",
@@ -15735,7 +18048,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/781.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/781.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 782,
     name: "Jangmo-o",
@@ -15749,7 +18064,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/782.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/782.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 783,
     name: "Hakamo-o",
@@ -15763,7 +18080,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/783.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/783.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 784,
     name: "Kommo-o",
@@ -15777,10 +18096,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/784.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/784.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 785,
-    name: "Tapu-koko",
+    name: "Tapu koko",
     gen3: null,
     gen4: null,
     gen5: {
@@ -15791,10 +18112,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/785.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/785.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 786,
-    name: "Tapu-lele",
+    name: "Tapu Lele",
     gen3: null,
     gen4: null,
     gen5: {
@@ -15805,10 +18128,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/786.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/786.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 787,
-    name: "Tapu-bulu",
+    name: "Tapu Bulu",
     gen3: null,
     gen4: null,
     gen5: {
@@ -15819,10 +18144,12 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/787.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/787.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 788,
-    name: "Tapu-fini",
+    name: "Tapu Fini",
     gen3: null,
     gen4: null,
     gen5: {
@@ -15833,7 +18160,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/788.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/788.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 789,
     name: "Cosmog",
@@ -15847,7 +18176,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/789.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/789.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 790,
     name: "Cosmoem",
@@ -15861,7 +18192,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/790.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/790.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 791,
     name: "Solgaleo",
@@ -15875,7 +18208,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/791.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/791.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 792,
     name: "Lunala",
@@ -15889,7 +18224,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/792.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/792.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 793,
     name: "Nihilego",
@@ -15903,7 +18240,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/793.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/793.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 794,
     name: "Buzzwole",
@@ -15917,7 +18256,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/794.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/794.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 795,
     name: "Pheromosa",
@@ -15931,7 +18272,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/795.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/795.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 796,
     name: "Xurkitree",
@@ -15945,7 +18288,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/796.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/796.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 797,
     name: "Celesteela",
@@ -15959,7 +18304,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/797.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/797.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 798,
     name: "Kartana",
@@ -15973,7 +18320,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/798.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/798.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 799,
     name: "Guzzlord",
@@ -15987,7 +18336,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/799.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/799.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 800,
     name: "Necrozma",
@@ -16001,7 +18352,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/800.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/800.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 801,
     name: "Magearna",
@@ -16015,7 +18368,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/801.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/801.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 802,
     name: "Marshadow",
@@ -16029,7 +18384,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/802.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/802.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 803,
     name: "Poipole",
@@ -16043,7 +18400,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/803.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/803.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 804,
     name: "Naganadel",
@@ -16057,7 +18416,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/804.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/804.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 805,
     name: "Stakataka",
@@ -16071,7 +18432,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/805.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/805.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 806,
     name: "Blacephalon",
@@ -16085,7 +18448,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/806.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/806.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 807,
     name: "Zeraora",
@@ -16099,7 +18464,9 @@ var pokemonData = [
     gen7: {
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/807.png",
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vii/ultra-sun-ultra-moon/shiny/807.png"
-    }
+    },
+    gen1: null,
+    gen2: null
   }, {
     id: 808,
     name: "Meltan",
@@ -16110,7 +18477,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/808.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 809,
     name: "Melmetal",
@@ -16121,7 +18490,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/809.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 810,
     name: "Grookey",
@@ -16132,7 +18503,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/810.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 811,
     name: "Thwackey",
@@ -16143,7 +18516,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/811.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 812,
     name: "Rillaboom",
@@ -16154,7 +18529,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/812.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 813,
     name: "Scorbunny",
@@ -16165,7 +18542,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/813.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 814,
     name: "Raboot",
@@ -16176,7 +18555,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/814.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 815,
     name: "Cinderace",
@@ -16187,7 +18568,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/815.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 816,
     name: "Sobble",
@@ -16198,7 +18581,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/816.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 817,
     name: "Drizzile",
@@ -16209,7 +18594,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/817.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 818,
     name: "Inteleon",
@@ -16220,7 +18607,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/818.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 819,
     name: "Skwovet",
@@ -16231,7 +18620,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/819.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 820,
     name: "Greedent",
@@ -16242,7 +18633,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/820.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 821,
     name: "Rookidee",
@@ -16253,7 +18646,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/821.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 822,
     name: "Corvisquire",
@@ -16264,7 +18659,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/822.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 823,
     name: "Corviknight",
@@ -16275,7 +18672,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/823.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 824,
     name: "Blipbug",
@@ -16286,7 +18685,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/824.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 825,
     name: "Dottler",
@@ -16297,7 +18698,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/825.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 826,
     name: "Orbeetle",
@@ -16308,7 +18711,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/826.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 827,
     name: "Nickit",
@@ -16319,7 +18724,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/827.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 828,
     name: "Thievul",
@@ -16330,7 +18737,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/828.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 829,
     name: "Gossifleur",
@@ -16341,7 +18750,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/829.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 830,
     name: "Eldegoss",
@@ -16352,7 +18763,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/830.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 831,
     name: "Wooloo",
@@ -16363,7 +18776,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/831.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 832,
     name: "Dubwool",
@@ -16374,7 +18789,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/832.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 833,
     name: "Chewtle",
@@ -16385,7 +18802,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/833.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 834,
     name: "Drednaw",
@@ -16396,7 +18815,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/834.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 835,
     name: "Yamper",
@@ -16407,7 +18828,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/835.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 836,
     name: "Boltund",
@@ -16418,7 +18841,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/836.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 837,
     name: "Rolycoly",
@@ -16429,7 +18854,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/837.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 838,
     name: "Carkol",
@@ -16440,7 +18867,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/838.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 839,
     name: "Coalossal",
@@ -16451,7 +18880,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/839.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 840,
     name: "Applin",
@@ -16462,7 +18893,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/840.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 841,
     name: "Flapple",
@@ -16473,7 +18906,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/841.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 842,
     name: "Appletun",
@@ -16484,7 +18919,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/842.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 843,
     name: "Silicobra",
@@ -16495,7 +18932,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/843.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 844,
     name: "Sandaconda",
@@ -16506,7 +18945,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/844.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 845,
     name: "Cramorant",
@@ -16517,7 +18958,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/845.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 846,
     name: "Arrokuda",
@@ -16528,7 +18971,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/846.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 847,
     name: "Barraskewda",
@@ -16539,7 +18984,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/847.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 848,
     name: "Toxel",
@@ -16550,10 +18997,12 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/848.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 849,
-    name: "Toxtricity-amped",
+    name: "Toxtricity",
     gen3: null,
     gen4: null,
     gen5: {
@@ -16561,7 +19010,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/849.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 850,
     name: "Sizzlipede",
@@ -16572,7 +19023,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/850.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 851,
     name: "Centiskorch",
@@ -16583,7 +19036,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/851.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 852,
     name: "Clobbopus",
@@ -16594,7 +19049,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/852.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 853,
     name: "Grapploct",
@@ -16605,7 +19062,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/853.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 854,
     name: "Sinistea",
@@ -16616,7 +19075,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/854.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 855,
     name: "Polteageist",
@@ -16627,7 +19088,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/855.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 856,
     name: "Hatenna",
@@ -16638,7 +19101,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/856.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 857,
     name: "Hattrem",
@@ -16649,7 +19114,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/857.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 858,
     name: "Hatterene",
@@ -16660,7 +19127,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/858.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 859,
     name: "Impidimp",
@@ -16671,7 +19140,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/859.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 860,
     name: "Morgrem",
@@ -16682,7 +19153,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/860.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 861,
     name: "Grimmsnarl",
@@ -16693,7 +19166,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/861.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 862,
     name: "Obstagoon",
@@ -16704,7 +19179,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/862.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 863,
     name: "Perrserker",
@@ -16715,7 +19192,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/863.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 864,
     name: "Cursola",
@@ -16726,7 +19205,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/864.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 865,
     name: "Sirfetchd",
@@ -16737,10 +19218,12 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/865.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 866,
-    name: "Mr-rime",
+    name: "Mr. Rime",
     gen3: null,
     gen4: null,
     gen5: {
@@ -16748,7 +19231,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/866.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 867,
     name: "Runerigus",
@@ -16759,7 +19244,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/867.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 868,
     name: "Milcery",
@@ -16770,7 +19257,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/868.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 869,
     name: "Alcremie",
@@ -16781,7 +19270,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/869.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 870,
     name: "Falinks",
@@ -16792,7 +19283,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/870.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 871,
     name: "Pincurchin",
@@ -16803,7 +19296,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/871.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 872,
     name: "Snom",
@@ -16814,7 +19309,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/872.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 873,
     name: "Frosmoth",
@@ -16825,7 +19322,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/873.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 874,
     name: "Stonjourner",
@@ -16836,10 +19335,12 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/874.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 875,
-    name: "Eiscue-ice",
+    name: "Eiscue",
     gen3: null,
     gen4: null,
     gen5: {
@@ -16847,10 +19348,12 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/875.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 876,
-    name: "Indeedee-male",
+    name: "Indeedee",
     gen3: null,
     gen4: null,
     gen5: {
@@ -16858,7 +19361,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/876.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 877,
     name: "Morpeko",
@@ -16869,7 +19374,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/877.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 878,
     name: "Cufant",
@@ -16880,7 +19387,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/878.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 879,
     name: "Copperajah",
@@ -16891,7 +19400,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/879.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 880,
     name: "Dracozolt",
@@ -16902,7 +19413,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/880.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 881,
     name: "Arctozolt",
@@ -16913,7 +19426,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/881.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 882,
     name: "Dracovish",
@@ -16924,7 +19439,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/882.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 883,
     name: "Arctovish",
@@ -16935,7 +19452,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/883.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 884,
     name: "Duraludon",
@@ -16946,7 +19465,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/884.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 885,
     name: "Dreepy",
@@ -16957,7 +19478,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/885.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 886,
     name: "Drakloak",
@@ -16968,7 +19491,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/886.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 887,
     name: "Dragapult",
@@ -16979,10 +19504,12 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/887.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 888,
-    name: "Zacian-hero",
+    name: "Zacian",
     gen3: null,
     gen4: null,
     gen5: {
@@ -16990,10 +19517,12 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/888.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 889,
-    name: "Zamazenta-hero",
+    name: "Zamazenta",
     gen3: null,
     gen4: null,
     gen5: {
@@ -17001,7 +19530,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/889.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 890,
     name: "Eternatus",
@@ -17012,7 +19543,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/890.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 891,
     name: "Kubfu",
@@ -17023,10 +19556,12 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/891.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 892,
-    name: "Urshifu-single-strike",
+    name: "Urshifu",
     gen3: null,
     gen4: null,
     gen5: {
@@ -17034,7 +19569,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/892.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 893,
     name: "Zarude",
@@ -17045,7 +19582,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/893.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 894,
     name: "Regieleki",
@@ -17056,7 +19595,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/894.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 895,
     name: "Regidrago",
@@ -17067,7 +19608,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/895.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 896,
     name: "Glastrier",
@@ -17078,7 +19621,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/896.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 897,
     name: "Spectrier",
@@ -17089,7 +19634,9 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/897.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }, {
     id: 898,
     name: "Calyrex",
@@ -17100,5 +19647,7 @@ var pokemonData = [
       "image-shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/shiny/898.png"
     },
     gen6: null,
-    gen7: null
+    gen7: null,
+    gen1: null,
+    gen2: null
   }]
