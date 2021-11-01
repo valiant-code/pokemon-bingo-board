@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8"/>
     <title>Pokemon Bingo Card Generator</title>
+    <link rel="icon" type="image/png" href="/sprites/poke-ball.png">
 
     <link rel="stylesheet" href="styles.css"/>
     <link rel="stylesheet" href="dark-mode-stuff/dark-mode.css"/>
@@ -13,8 +14,8 @@
   <body>
     <div class="game-container">
 
-    <div>
-      <div class="settings-section no-print">
+      <div>
+        <div class="settings-section no-print">
         <span>
           <label for="genSelector">Generation:</label>
           <select name="genSelector" id="genSelector" onchange="changeGen()">
@@ -28,12 +29,12 @@
             <option value="8">8</option>
           </select>
         </span>
-        <button id="dark-mode-btn">Toggle Dark Mode</button>
+          <button id="dark-mode-btn">Toggle Dark Mode</button>
+        </div>
+        <header>
+          <h1>Pokemon Bingo Board</h1>
+        </header>
       </div>
-      <header>
-        <h1>Pokemon Bingo Board</h1>
-      </header>
-    </div>
 
 
       <table>
