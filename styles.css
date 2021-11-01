@@ -2,12 +2,18 @@ body {
   font-family: Verdana, Helvetica, Arial, sans-serif;
 }
 
-header {
+.settings-section {
   display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-  max-width: 75%;
-  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.settings-section label {
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.settings-section select {
+  width: 2rem;
 }
 
 header button {
@@ -56,7 +62,7 @@ button {
   cursor: pointer;
   font-weight: 700;
   font-size: 1.2rem;
-  padding: 0.5rem 0;
+  padding: 0.5rem;
   border: 1px solid black;
 }
 
@@ -123,7 +129,16 @@ button {
 
   button {
     font-size: 2rem;
-    padding: 1rem 0;
+    padding: 1rem .5rem;
+  }
+
+  .settings-section label {
+    font-size: 2rem;
+  }
+
+  .settings-section select {
+    width: 4rem;
+    font-size: 2rem;
   }
 
   .pokemon-sprite {
