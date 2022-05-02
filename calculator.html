@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Damage Calculator</title>
+    <link rel="icon" type="image/png" href="sprites/poke-ball.png">
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+  <body>
+    <div class="equation">
+      <div class="paren">
+        <div class="division">
+          <div class="numerator">
+            <div class="paren">
+              <div class="division">
+                <div class="numerator">
+                  2 ×
+                  <label class="input">Level
+                    <input onchange="updateCalculation()" id="levelInput" type="number" value="5" placeholder="level"/>
+                  </label>
+                </div>
+                <div class="denominator">
+                  5
+                </div>
+              </div>
+              + 2
+            </div>
+            ×
+            <label class="input">Move Power
+              <input onchange="updateCalculation()" id="powerInput" type="number" step="5" value="60"
+                     placeholder="power"/>
+            </label>
+            ×
+            <div class="division">
+              <div class="numerator">
+                <label class="input">Att
+                  <input onchange="updateCalculation()" id="attackInput" type="number" value="20" placeholder="attack"/>
+                </label>
+              </div>
+              <div class="denominator">
+                <label class="input">
+                  <input onchange="updateCalculation()" id="defenseInput" type="number" value="20"
+                         placeholder="defense"/>
+                  Def
+                </label>
+              </div>
+            </div>
+          </div>
+          <div class="denominator">
+            50
+          </div>
+        </div>
+        + 2
+      </div>
+      <div class="rest">
+        <span class="hidden mx-2">* Targets</span>
+        <span class="mx-2">* Weather</span>
+        <span class="hidden mx-2">* Badge</span>
+        <span class="hidden mx-2">* Critical</span>
+        <span class="mx-2">* random</span>
+        <span class="mx-2">* STAB</span>
+        <span class="mx-2">* Type</span>
+        <span class="mx-2">* Burn</span>
+        <span class="mx-2">* other</span>
+      </div>
+    </div>
+    <div class="output">Damage: <span id="output"></span></div>
+    <label class="range"><span>Level: <span id="levelOutput"></span></span>
+      <input oninput="updateSlider()" id="levelSlider" type="range" value="5" step="1" min="1" max="100"/>
+    </label>
+    <label class="range"><span>Move Power: <span id="powerOutput"></span></span>
+      <input oninput="updateSlider()" id="powerSlider" type="range" value="60" step="5" min="5" max="150" />
+    </label>
+    <label class="range"><span>Attack: <span id="attackOutput"></span></span>
+      <input oninput="updateSlider()" id="attackSlider" type="range" value="100" step="1" min="5" max="200" />
+    </label>
+    <label class="range"><span>Defense: <span id="defenseOutput"></span></span>
+      <input oninput="updateSlider()" id="defenseSlider" type="range" value="100" step="1" min="5" max="200" />
+    </label>
+  </body>
+  <script src="calculator.js"></script>
+</html>
