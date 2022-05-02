@@ -54,19 +54,15 @@ function updateCalculation() {
   defenseSlider.value = defense;
   defenseOutput.innerText = '' + defense;
 
-
-  damage = (divide(((divide((2 * level), 5) + 2) * power *
-      // I am not sure about the integer division rules - truncation here would mean 0 anytime att < def
-      // divide(attack, defense)
-      (attack / defense)
-    ), 50) + 2) *
+  const levelModifier = divide((2 * level), 5) + 2;
+  const numeratorVal = divide(levelModifier * power * attack, defense);
+  damage = (divide(numeratorVal, 50) + 2) *
     Targets * Weather * Badge * Critical * random * STAB * Type * Burn * other;
   output.innerHTML = '' + damage;
 }
 
 function divide(num, denom) {
-  //not sure if the max
-  return Math.max(Math.floor(num / denom), 1)
+  return Math.floor(num / denom)
 }
 
 
