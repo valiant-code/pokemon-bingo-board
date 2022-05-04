@@ -24,7 +24,7 @@ input[type=number] {
 }
 
 label.range {
-  width: 400px;
+  width: 650px;
   display: flex;
   flex-direction: column;
 }
@@ -32,7 +32,7 @@ label.range {
 label.input {
   display: flex;
   flex-direction: column;
-  margin-left: 3px;
+  margin-left: 8px;
   font-size: 10px;
 }
 

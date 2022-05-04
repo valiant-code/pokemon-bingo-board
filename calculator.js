@@ -18,6 +18,11 @@ const defenseInput = document.getElementById('defenseInput');
 const defenseSlider = document.getElementById('defenseSlider');
 const defenseOutput = document.getElementById('defenseOutput');
 
+const weatherSelect = document.getElementById('weatherSelect');
+const damageRollSelect = document.getElementById('damageRollSelect');
+const stabCheckbox = document.getElementById('stabCheckbox');
+const typeSelect = document.getElementById('typeSelect');
+
 let Badge = 1;
 let Burn = 1;
 let Critical = 1;
@@ -55,14 +60,33 @@ function updateCalculation() {
   defenseOutput.innerText = '' + defense;
 
   const levelModifier = divide((2 * level), 5) + 2;
-  const numeratorVal = divide(levelModifier * power * attack, defense);
-  damage = (divide(numeratorVal, 50) + 2) *
-    Targets * Weather * Badge * Critical * random * STAB * Type * Burn * other;
-  output.innerHTML = '' + damage;
+  const preDefenseValues = levelModifier * power * attack;
+  const numeratorVal = divide(preDefenseValues, defense);
+  const effectivePower = preDefenseValues / 50;
+  const effectivePowerAfterModifiers = applyModifiers(effectivePower);
+  damage = (divide(numeratorVal, 50) + 2);
+  damage = applyModifiers(damage);
+
+  // Targets * Weather * Badge * Critical * random * STAB * Type * Burn * other;
+  output.innerHTML = 'Effective Power: ~' + effectivePowerAfterModifiers + ' ÷ Def  |  Estimate: ' + damage;
+}
+
+function applyModifiers(val) {
+  const weatherVal = parseFloat(weatherSelect.value);
+  const damageRollVal = parseFloat(damageRollSelect.value);
+  const stabVal = stabCheckbox.checked ? 1.5 : 1;
+  const effectivenessVal = parseFloat(typeSelect.value);
+
+  let result = val;
+  result = Math.floor(result * weatherVal);
+  result = Math.floor(result * damageRollVal);
+  result = Math.floor(result * stabVal);
+  result = Math.floor(result * effectivenessVal);
+  return result;
 }
 
 function divide(num, denom) {
-  return Math.floor(num / denom)
+  return Math.floor((num / denom));
 }
 
 
