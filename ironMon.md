@@ -1,16 +1,20 @@
 # The IronMON Challenge
 
-The IronMon challenge is a [Pokémon Randomizer](https://github.com/Ajarmar/universal-Pokemon-randomizer-zx/releases) Challenge run created by [Iateyourpie](https://www.twitch.tv/iateyourpie).
-Designed to make experiencing the randomizer fun and challenging, while taking away the wild Pokémon grind that come with some other challenges.
-It was originally made for Fire Red / Leaf Green but the rules can be applied/adjusted for other games as well. If you're interested to find out more about IronMon, join our [Discord community](https://discord.gg/jFPYsZAhjX)!
+The IronMon challenge is a [Pokémon Randomizer](https://github.com/Ajarmar/universal-Pokemon-randomizer-zx/releases)
+Challenge run created by [Iateyourpie](https://www.twitch.tv/iateyourpie). Designed to make experiencing the randomizer
+fun and challenging, while taking away the wild Pokémon grind that come with some other challenges. It was originally
+made for Fire Red / Leaf Green but the rules can be applied/adjusted for other games as well. If you're interested to
+find out more about IronMon, join our [Discord community](https://discord.gg/jFPYsZAhjX)!
 
-IronMon has varying levels of difficulties, to keep it more approachable but also provide the toughest challenge possible for those who want it.
+IronMon has varying levels of difficulties, to keep it more approachable but also provide the toughest challenge
+possible for those who want it.
 
 ### Standard IronMon Ruleset
+
 | Rule                      | Details                                                                                                                                                                                      | Notes                                                                                                                  |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Randomize the game        | All Pokémon, movesets, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by 50%.                                                                                | Full randomizer settings below                                                                                         |
-| Catch or Kill 1 per Route | You can only catch OR kill one Pokémon per Route. It does **not** have to be the first one seen. All other Exp will come from Trainers.                                                      | If you kill a Pokémon while trying to catch it on accident, you will not be able to capture a Pokémon from that Route. |
+| Catch or Kill 1 per Route | You can only catch OR kill one Pokémon per Route. It does <b>not</b> have to be the first one seen. All other Exp will come from Trainers.                                                   | If you kill a Pokémon while trying to catch it on accident, you will not be able to capture a Pokémon from that Route. |
 | No Shops                  | You can only use items that you pick up, no use of stores except for Pokeballs and Repels.                                                                                                   |                                                                                                                        |
 | 1 Team at a Time          | You may carry up to 6 Pokémon at a time, and cannot withdraw Pokémon once they are deposited in a box.                                                                                       |                                                                                                                        |
 | Permadeath                | Once a Pokémon faints, you must release/store it. No exceptions.                                                                                                                             | If a Pokémon dies with an item attached to it, the item cannot be salvaged.                                            |
@@ -23,6 +27,7 @@ IronMon has varying levels of difficulties, to keep it more approachable but als
 | Don't be Rude             | You have to talk to MOM when you start your journey, otherwise that's just rude.                                                                                                             |                                                                                                                        |
 
 ### Ultimate IronMon Ruleset
+
 Additional rules for the Ultimate Gamers
 (Includes all the previous rules unless overruled below)
 
@@ -44,9 +49,9 @@ C) You Cannot Travel to the Sevii Islands with Bill before beating the Elite 4.
 
 ### Kaizo IronMon Ruleset
 
-These additional rules are meant to be insanely stupid and hard.
-These are not meant to be fair, and possibly not even fun. But if you are truly someone who wants an impossible challenge, this is for you.
-These rules are also non-negotiable. If you wish to adjust rules just play Standard Ironmon and Ultimate as your ruleset.
+These additional rules are meant to be insanely stupid and hard. These are not meant to be fair, and possibly not even
+fun. But if you are truly someone who wants an impossible challenge, this is for you. These rules are also
+non-negotiable. If you wish to adjust rules just play Standard Ironmon and Ultimate as your ruleset.
 
 | Rule                               | Details                                                                                                                                                                                                                                                                                                                                                                                                     | Notes                                                                                                                     |
 |------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -64,19 +69,19 @@ These rules are also non-negotiable. If you wish to adjust rules just play Stand
 | Kaizo Randomizer Settings          | A few specific settings for Kaizo: <li>Static Pokémon MUST NOT have level increase</li><li>No "Make Evolutions Easier"</li><li>Forced Fully Evolved at Level 30</li><li>Add 3 Additional Pokémon to Boss Trainers</li>                                                                                                                                                                                      | Certain settings may not be available for all Generations                                                                 |
 | No Relearner Abuse                 | You may use Move Relearner but cannot relearn the same move repeated times                                                                                                                                                                                                                                                                                                                                  |                                                                                                                           |
 
-
 ## FAQs
->Q: Where can I Find the randomizer  
->A: https://github.com/Ajarmar/universal-Pokemon-randomizer-zx/releases
 
->Q: Can I just reset immediately if I don't like my starter Pokémon?  
->A: Where's the fun in that!? Playing it out is in the spirit of the challenge, and you might be surprised how far you can go.
+> Q: Where can I Find the randomizer  
+> A: https://github.com/Ajarmar/universal-Pokemon-randomizer-zx/releases
 
->Q: What are the Randomizer Settings?  
->A: For the basic randomizer settings see here: [IronMon Settings PNG](https://cdn.discordapp.com/attachments/251538607578284033/809211676905177138/Updated_ironMON_Settings.png).
+> Q: Can I just reset immediately if I don't like my starter Pokémon?  
+> A: Where's the fun in that!? Playing it out is in the spirit of the challenge, and you might be surprised how far you can go.
 
->Q: Is there a way to configure the Randomizer settings easily?  
->A: Join the IronMon [Discord community](https://discord.gg/jFPYsZAhjX) for an up to date settings string to load the settings easily and help with any questions.
+> Q: What are the Randomizer Settings?  
+> A: For the basic randomizer settings see here: [IronMon Settings PNG](https://cdn.discordapp.com/attachments/251538607578284033/809211676905177138/Updated_ironMON_Settings.png).
 
->Q: Who can I ~~complain to~~ thank for creating this challenge?  
->A: Find Iateyourpie on [Twitch](https://www.twitch.tv/iateyourpie), [Twitter](https://twitter.com/Iateyourp1e), and [Youtube](https://www.youtube.com/channel/UCAwIbbB6OE1OAd-gisAl5jA).  
+> Q: Is there a way to configure the Randomizer settings easily?  
+> A: Join the IronMon [Discord community](https://discord.gg/jFPYsZAhjX) for an up to date settings string to load the settings easily and help with any questions.
+
+> Q: Who can I ~~complain to~~ thank for creating this challenge?  
+> A: Find Iateyourpie on [Twitch](https://www.twitch.tv/iateyourpie), [Twitter](https://twitter.com/Iateyourp1e), and [Youtube](https://www.youtube.com/channel/UCAwIbbB6OE1OAd-gisAl5jA).  
